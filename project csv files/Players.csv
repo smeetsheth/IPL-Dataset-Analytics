@@ -1,0 +1,953 @@
+PID,Name,Full Name,Alias,DOB,Age,Nationality_ID,Debut_year,Gender,Last_Known_team,Last_Known_Team_ID,Last_Sold_Price,Retire_status
+90001,A Ashish Reddy,Ashish Reddy,,1991-02-24,32,80006,2013,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90002,A Badoni,Ayush Badoni,,1999-12-03,23,80006,2022,Male,Lucknow Super Giants,50011,2000000,No
+90003,A Chandila,Ajit Chandila,,1983-12-05,39,80006,2011,Male,Rajasthan Royals,50001,3000000,Yes
+90004,A Chopra,Aakash Chopra,,1977-09-19,45,80006,2008,Male,Rajasthan Royals,50001,3000000,Yes
+90005,A Choudhary,Aniket Choudhary,,1990-01-28,33,80006,2013,Male,Royal Challengers Bangalore,50010,3000000,Yes
+90006,A Dananjaya,Akila Dananjaya,,1993-10-04,29,80017,2013,Male,Mumbai Indians,50005,5000000,Yes
+90007,A Flintoff,Andrew Flintoff,,1977-12-06,45,80004,2009,Male,Chennai Super Kings,50003,76136000,Yes
+90008,A Kumble,Anil Kumble,,1970-10-17,52,80006,2008,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90009,A Manohar,Abhinav Manohar,,1994-09-16,28,80006,2022,Male,Gujarat Titans,50007,26000000,Yes
+90010,A Mishra,Amit Mishra,,1981-06-11,41,80006,2008,Male,Delhi Capitals,50008,5000000,Yes
+90011,A Mithun,Abhimanyu Mithun,,1989-10-25,33,80006,2009,Male,Royal Challengers Bangalore,50010,3000000,Yes
+90012,A Mukund,Abhinav Mukund,,1990-01-06,33,80006,2008,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90013,A Nehra,Ashish Nehra,,1979-04-29,43,80006,2008,Male,Sunrisers Hyderabad,50006,55000000,Yes
+90014,A Nel,André Nel,,1977-07-15,45,80016,2008,Male,Mumbai Indians,50005,2000000,Yes
+90015,A Nortje,Anrich Nortje,,1993-11-16,29,80016,2019,Male,Delhi Capitals,50008,65000000,No
+90016,A Singh,Anureet Singh,,1988-03-02,35,80006,2009,Male,Rajasthan Royals,50001,3000000,Yes
+90017,A Symonds,Andrew Symonds,,1975-06-09,47,80002,2008,Male,Mumbai Indians,50005,39100000,Yes
+90018,A Tomar,Avijeet Tomar,,1995-03-14,28,80006,2022,Male,Kolkata Knight Riders,50004,3000000,No
+90019,A Uniyal,Amit Uniyal,,1981-11-21,41,80006,2010,Male,Rajasthan Royals,50001,800000,Yes
+90020,A Zampa,Adam Zampa,,1992-03-31,31,80002,2016,Male,Royal Challengers Bangalore,50010,15000000,Yes
+90021,AA Bilakhia,Azhar Bilakhia,,1986-05-31,36,80006,2009,Male,Deccan Chargers,50002,1000000,Yes
+90022,AA Chavan,Ankeet Chavan,,1985-10-28,37,80006,2008,Male,Rajasthan Royals,50001,2000000,Yes
+90023,AA Jhunjhunwala,Abhishek Jhunjhunwala,,1982-12-01,40,80006,2010,Male,Delhi Capitals,50008,3000000,Yes
+90024,AA Kazi,Abrar Kazi,,1989-09-29,33,80006,2011,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90025,AA Noffke,Ashley Noffke,,1977-04-30,45,80002,2008,Male,Royal Challengers Bangalore,50010,1204800,Yes
+90026,AB Agarkar,Ajit Agarkar,,1977-12-04,45,80006,2008,Male,Delhi Capitals,50008,9660000,Yes
+90027,AB Barath,Adrian Barath,,1990-04-14,33,80020,2010,Male,Punjab Kings,50009,925800,Yes
+90028,AB de Villiers,AB de Villiers,,1984-02-17,39,80016,2008,Male,Royal Challengers Bangalore,50010,110000000,Yes
+90029,AB Dinda,Ashok Dinda,,1984-03-25,39,80006,2008,Male,Rising Pune Supergiants,50015,5000000,Yes
+90030,AB McDonald,Andrew McDonald,,1981-06-05,41,80002,2009,Male,Royal Challengers Bangalore,50010,4261600,Yes
+90031,Abdul Samad,Abdul Samad,,2001-10-28,21,80006,2020,Male,Sunrisers Hyderabad,50006,40000000,No
+90032,Abdur Razzak,Abdur Razzak,,1982-06-15,40,80003,2008,Male,Royal Challengers Bangalore,50010,2008000,Yes
+90033,Abhishek Sharma,Abhishek Sharma,,2000-09-04,22,80006,2018,Male,Sunrisers Hyderabad,50006,65000000,No
+90034,AC Blizzard,Aiden Blizzard,,1984-06-27,38,80002,2011,Male,Mumbai Indians,50005,3000000,Yes
+90035,AC Gilchrist,Adam Gilchrist,,1971-11-14,51,80002,2008,Male,Punjab Kings,50009,47943000,Yes
+90036,AC Thomas,Alfonso Thomas,,1977-02-09,46,80016,2011,Male,Pune Warriors India,50014,5027000,Yes
+90037,AC Voges,Adam Voges,,1979-10-04,43,80002,2010,Male,Rajasthan Royals,50001,2314500,Yes
+90038,AD Hales,Alex Hales,,1989-01-03,34,80004,2015,Male,Kolkata Knight Riders,50004,15000000,No
+90039,AD Mascarenhas,Dimitri Mascarenhas,,1977-10-30,45,80004,2008,Male,Punjab Kings,50009,5327000,Yes
+90040,AD Mathews,Angelo Mathews,,1987-06-02,35,80017,2009,Male,Delhi Capitals,50008,20000000,Yes
+90041,AD Nath,Akshdeep Nath,,1993-05-10,29,80006,2016,Male,Delhi Capitals,50008,36000000,Yes
+90042,AD Russell,Andre Russell,,1988-04-29,34,80020,2012,Male,Kolkata Knight Riders,50004,120000000,No
+90043,AF Milne,Adam Milne,,1992-04-13,31,80011,2015,Male,Chennai Super Kings,50003,19000000,No
+90044,AG Murtaza,Ali Murtaza,,1990-01-01,33,80006,2010,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90045,AG Paunikar,Amit Paunikar,,1988-04-18,34,80006,2010,Male,Rajasthan Royals,50001,2000000,Yes
+90046,AJ Finch,Aaron Finch,,1986-11-17,36,80002,2010,Male,Royal Challengers Bangalore,50010,15000000,Yes
+90047,AJ Turner,Ashton Turner,,1993-01-25,30,80002,2019,Male,Rajasthan Royals,50001,5000000,Yes
+90048,AJ Tye,Andrew Tye,,1986-12-12,36,80002,2015,Male,Lucknow Super Giants,50011,10000000,No
+90049,AK Markram,Aiden Markram,,1994-10-04,28,80016,2021,Male,Sunrisers Hyderabad,50006,26000000,Yes
+90050,Akash Deep,Akash Deep,,1996-12-15,26,80006,2021,Male,Royal Challengers Bangalore,50010,2000000,No
+90051,Akash Singh,Akash Singh,,2002-04-26,20,80006,2020,Male,Rajasthan Royals,50001,2000000,Yes
+90052,AL Menaria,Ashok Menaria,,1990-10-29,32,80006,2011,Male,Rajasthan Royals,50001,2000000,Yes
+90053,AM Nayar,Abhishek Nayar,,1983-10-08,39,80006,2008,Male,Rajasthan Royals,50001,10000000,Yes
+90054,AM Rahane,Ajinkya Rahane,,1988-06-05,34,80006,2008,Male,Kolkata Knight Riders,50004,5000000,No
+90055,AM Salvi,Aavishkar Salvi,,1981-10-20,41,80006,2009,Male,Delhi Capitals,50008,3000000,Yes
+90056,Aman Hakim Khan,Aman Hakim Khan,,1996-11-23,26,80006,2023,Male,Kolkata Knight Riders,50004,55000000,No
+90057,AN Ahmed,Abu Nechim Ahmed,,1988-11-05,34,80006,2009,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90058,AN Ghosh,Arindam Ghosh,,1986-10-19,36,80006,2009,Male,Kolkata Knight Riders,50004,800000,Yes
+90059,Anand Rajan,Anand Rajan,,1987-04-17,35,80006,2011,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90060,Anirudh Singh,Anirudh Singh,,1980-08-02,42,80006,2010,Male,Delhi Capitals,50008,600000,Yes
+90061,Ankit Sharma,Ankit Sharma,,1991-04-20,31,80006,2011,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90062,Ankit Soni,Ankit Soni,,1993-08-02,29,80006,2017,Male,Gujarat Lions,50012,1000000,Yes
+90063,Anmolpreet Singh,Anmolpreet Singh,,1998-03-28,25,80006,2019,Male,Mumbai Indians,50005,2000000,No
+90064,Anuj Rawat,Anuj Rawat,,1999-10-17,23,80006,2020,Male,Royal Challengers Bangalore,50010,34000000,No
+90065,Anureet Singh,Anureet Singh,,1988-03-02,35,80006,2009,Male,Rajasthan Royals,50001,3000000,Yes
+90066,AP Dole,Aditya Dole,,1987-10-09,35,80006,2010,Male,Rajasthan Royals,50001,2000000,Yes
+90067,AP Majumdar,Anustup Majumdar,,1984-04-30,38,80006,2012,Male,Pune Warriors India,50014,1000000,Yes
+90068,AP Tare,Aditya Tare,,1987-11-07,35,80006,2010,Male,Mumbai Indians,50005,2000000,Yes
+90069,AR Bawne,Ankit Bawne,,1992-12-17,30,80006,2017,Male,Delhi Capitals,50008,1000000,Yes
+90070,AR Patel,Axar Patel,,1994-01-20,29,80006,2013,Male,Delhi Capitals,50008,90000000,No
+90071,Arshdeep Singh,Arshdeep Singh,,1999-02-05,24,80006,2019,Male,Punjab Kings,50009,40000000,No
+90072,AS Joseph,Alzarri Joseph,,1996-11-20,26,80020,2019,Male,Gujarat Titans,50007,24000000,No
+90073,AS Rajpoot,Ankit Rajpoot,,1993-12-04,29,80006,2013,Male,Lucknow Super Giants,50011,5000000,No
+90074,AS Raut,Abhishek Raut,,1987-03-03,36,80006,2009,Male,Rajasthan Royals,50001,3000000,Yes
+90075,AS Roy,Anukul Roy,,1998-11-30,24,80006,2018,Male,Kolkata Knight Riders,50004,2000000,No
+90076,AS Yadav,Arjun Yadav,,1981-12-23,41,80006,2008,Male,Deccan Chargers,50002,3000000,Yes
+90077,AT Carey,Alex Carey,,1991-08-27,31,80002,2020,Male,Delhi Capitals,50008,24000000,Yes
+90078,AT Rayudu,Ambati Rayudu,,1985-09-23,37,80006,2010,Male,Chennai Super Kings,50003,62500000,No
+90079,AU Rashid,Adil Rashid,,1990-06-29,32,80004,2008,Male,Punjab Kings,50009,5000000,Yes
+90080,AUK Pathan,Asad Pathan,,1984-06-17,38,80006,2011,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90081,Avesh Khan,Avesh Khan,,1996-12-13,26,80006,2017,Male,Lucknow Super Giants,50011,100000000,No
+90082,Azhar Mahmood,Azhar Mahmood,,1975-02-28,48,80013,2012,Male,Kolkata Knight Riders,50004,5000000,Yes
+90083,B Akhil,Balachandra Akhil,,1977-10-07,45,80006,2008,Male,Kochi Tuskers Kerala,50013,3000000,Yes
+90084,B Chipli,Bharat Chipli,,1983-01-27,40,80006,2009,Male,Delhi Capitals,50008,1000000,Yes
+90085,B Geeves,Brett Geeves,,1982-06-13,40,80002,2008,Male,Delhi Capitals,50008,2008000,Yes
+90086,B Indrajith,Baba Indrajith,,1994-07-08,28,80006,2022,Male,Kolkata Knight Riders,50004,2000000,No
+90087,B Kumar,Bhuvneshwar Kumar,,1990-02-05,33,80006,2009,Male,Sunrisers Hyderabad,50006,42000000,No
+90088,B Laughlin,Ben Laughlin,,1982-10-03,40,80002,2013,Male,Rajasthan Royals,50001,5000000,Yes
+90089,B Lee,Brett Lee,,1976-11-08,46,80002,2008,Male,Kolkata Knight Riders,50004,21308000,Yes
+90090,B Sai Sudharsan,B Sai Sudharshan,,2001-10-15,21,80006,2008,Male,Gujarat Titans,50007,2000000,No
+90091,B Stanlake,Billy Stanlake,,1994-11-04,28,80002,2017,Male,Sunrisers Hyderabad,50006,5000000,Yes
+90092,B Sumanth,Bodapati Sumanth,,1988-05-10,34,80006,2010,Male,Delhi Capitals,50008,600000,Yes
+90093,BA Bhatt,Bhargav Bhatt,,1990-05-13,32,80006,2011,Male,Punjab Kings,50009,1000000,Yes
+90094,BA Stokes,Ben Stokes,,1991-06-04,31,80004,2017,Male,Rajasthan Royals,50001,162500000,Yes
+90095,Basil Thampi,Basil Thampi,,1993-09-11,29,80006,2017,Male,Mumbai Indians,50005,3000000,No
+90096,BAW Mendis,Ajantha Mendis,,1985-03-11,38,80017,2008,Male,Punjab Kings,50009,38620750,Yes
+90097,BB McCullum,Brendon McCullum,,1981-09-27,41,80011,2008,Male,Royal Challengers Bangalore,50010,36000000,Yes
+90098,BB Samantray,Biplab Samantray,,1988-12-14,34,80006,2012,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90099,BB Sran,Barinder Sran,,1992-12-10,30,80006,2015,Male,Gujarat Titans,50007,34000000,No
+90100,BCJ Cutting,Ben Cutting,,1987-01-30,36,80002,2012,Male,Kolkata Knight Riders,50004,7500000,Yes
+90101,BE Hendricks,Beuran Hendricks,,1990-06-08,32,80016,2014,Male,Mumbai Indians,50005,18000000,Yes
+90102,Bipul Sharma,Bipul Sharma,,1983-09-28,39,80006,2010,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90103,BJ Haddin,Brad Haddin,,1977-10-23,45,80002,2011,Male,Kolkata Knight Riders,50004,17312750,Yes
+90104,BJ Hodge,Brad Hodge,,1974-12-29,48,80002,2008,Male,Rajasthan Royals,50001,24000000,Yes
+90105,BJ Rohrer,Ben Rohrer,,1981-03-26,42,80002,2013,Male,Delhi Capitals,50008,2663500,Yes
+90106,BMAJ Mendis,Jeevan Mendis,,1983-01-15,40,80017,2013,Male,Delhi Capitals,50008,2663500,Yes
+90107,BR Dunk,Ben Dunk,,1987-03-11,36,80002,2014,Male,Mumbai Indians,50005,2000000,Yes
+90108,BW Hilfenhaus,Ben Hilfenhaus,,1983-03-15,40,80002,2011,Male,Delhi Capitals,50008,3000000,Yes
+90109,C de Grandhomme,Colin de Grandhomme,,1986-07-22,36,80011,2017,Male,Royal Challengers Bangalore,50010,22000000,Yes
+90110,C Ganapathy,Chandrasekar Ganapathy,,1981-06-10,41,80006,2010,Male,Chennai Super Kings,50003,800000,Yes
+90111,C Madan,Chandan Madan,,1982-10-15,40,80006,2010,Male,Kochi Tuskers Kerala,50013,800000,Yes
+90112,C Munro,Colin Munro,,1987-03-11,36,80011,2015,Male,Delhi Capitals,50008,19000000,Yes
+90113,C Nanda,Chentanya Nanda,,1979-03-29,44,80006,2008,Male,Mumbai Indians,50005,19000000,Yes
+90114,C Sakariya,Chetan Sakariya,,1998-02-28,25,80006,2021,Male,Delhi Capitals,50008,42000000,No
+90115,CA Ingram,Colin Ingram,,1985-07-03,37,80016,2011,Male,Delhi Capitals,50008,64000000,Yes
+90116,CA Lynn,Chris Lynn,,1990-04-10,33,80002,2011,Male,Mumbai Indians,50005,20000000,Yes
+90117,CA Pujara,Cheteshwar Pujara,,1988-01-25,35,80006,2008,Male,Chennai Super Kings,50003,5000000,Yes
+90118,CH Gayle,Chris Gayle,,1979-09-21,43,80020,2008,Male,Punjab Kings,50009,20000000,Yes
+90119,CH Morris,Chris Morris,,1987-04-30,35,80016,2013,Male,Rajasthan Royals,50001,162500000,Yes
+90120,CJ Anderson,Corey Anderson,,1990-12-13,32,80011,2014,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90121,CJ Dala,Junior Dala,,1989-12-29,33,80016,2018,Male,Delhi Capitals,50008,2000000,Yes
+90122,CJ Ferguson,Callum Ferguson,,1984-11-21,38,80002,2011,Male,Punjab Kings,50009,15081000,Yes
+90123,CJ Green,Chris Green,,1993-10-01,29,80002,2020,Male,Kolkata Knight Riders,50004,2000000,Yes
+90124,CJ Jordan,Chris Jordan,,1988-10-04,34,80004,2016,Male,Punjab Kings,50009,36000000,Yes
+90125,CJ McKay,Clint McKay,,1983-02-22,40,80002,2011,Male,Sunrisers Hyderabad,50006,5327000,Yes
+90126,CK Kapugedera,Chamara Kapugedera,,1987-02-24,36,80017,2008,Male,Chennai Super Kings,50003,4016000,Yes
+90127,CK Langeveldt,Charl Langeveldt,,1974-12-17,48,80016,2009,Male,Royal Challengers Bangalore,50010,7037800,Yes
+90128,CL White,Cameron White,,1983-08-18,39,80002,2008,Male,Sunrisers Hyderabad,50006,58597000,Yes
+90129,CM Gautam,CM Gautam,,1986-03-08,37,80006,2009,Male,Delhi Capitals,50008,100000000,Yes
+90130,CR Brathwaite,Carlos Brathwaite,,1988-07-18,34,80020,2016,Male,Kolkata Knight Riders,50004,20000000,Yes
+90131,CR Woakes,Chris Woakes,,1989-03-02,34,80004,2017,Male,Delhi Capitals,50008,15000000,Yes
+90132,CRD Fernando,Dilhara Fernando,,1979-07-19,43,80017,2008,Male,Mumbai Indians,50005,4600000,Yes
+90133,CV Chakravarthy,Varun Chakravarthy,,1991-08-29,31,80006,2019,Male,Kolkata Knight Riders,50004,15000000,No
+90134,D Brevis,D Brevis,,1985-04-08,38,80016,2008,Male,Delhi Capitals,50008,4600000,Yes
+90135,D du Preez,Dillon du Preez,,1990-06-29,32,80016,2009,Male,Royal Challengers Bangalore,50010,4600000,Yes
+90136,D Kalyankrishna,Doddapaneni Kalyankrishna,,1983-12-16,39,80006,2010,Male,Delhi Capitals,50008,4600000,Yes
+90137,D Padikkal,Devdutt Padikkal,,2000-07-07,22,80006,2019,Male,Rajasthan Royals,50001,77500000,No
+90138,D Pretorius,D Pretorius,,1990-06-29,32,80016,2008,Male,Gujarat Lions,50012,4600000,Yes
+90139,D Salunkhe,Dinesh Salunkhe,,1982-11-12,40,80006,2008,Male,Rajasthan Royals,50001,1000000,Yes
+90140,D Wiese,David Wiese,,1985-05-18,37,80016,2015,Male,Royal Challengers Bangalore,50010,10000000,Yes
+90141,DA Miller,David Miller,,1989-06-10,33,80016,2011,Male,Gujarat Titans,50007,30000000,No
+90142,DA Warner,David Warner,,1986-10-27,36,80002,2009,Male,Delhi Capitals,50008,62500000,No
+90143,DAJ Bracewell,Doug Bracewell,,1990-09-28,32,80011,2012,Male,Delhi Capitals,50008,2513500,Yes
+90144,DB Das,Debabrata Das,,1986-09-22,36,80006,2008,Male,Kolkata Knight Riders,50004,2000000,Yes
+90145,DB Ravi Teja,Dwaraka Ravi Teja,,1987-09-05,35,80006,2008,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90146,DE Bollinger,Doug Bollinger,,1981-07-24,41,80002,2010,Male,Chennai Super Kings,50003,35189000,Yes
+90147,DG Nalkande,Darshan Nalkande,,1998-10-04,24,80006,2019,Male,Gujarat Titans,50007,2000000,No
+90148,DH Yagnik,Dishant Yagnik,,1983-06-22,39,80006,2011,Male,Rajasthan Royals,50001,3000000,Yes
+90149,DJ Bravo,Dwayne Bravo,,1983-10-07,39,80020,2008,Male,Chennai Super Kings,50003,44000000,No
+90150,DJ Harris,Daniel Harris,,1979-12-31,43,80002,2012,Male,Deccan Chargers,50002,3518900,Yes
+90151,DJ Hooda,Deepak Hooda,,1995-04-19,27,80006,2014,Male,Lucknow Super Giants,50011,57500000,No
+90152,DJ Hussey,David Hussey,,1977-07-15,45,80002,2008,Male,Chennai Super Kings,50003,5000000,Yes
+90153,DJ Jacobs,Davy Jacobs,,1982-11-04,40,80016,2011,Male,Mumbai Indians,50005,9551300,Yes
+90154,DJ Malan,Dawid Malan,,1987-09-03,35,80004,2021,Male,Punjab Kings,50009,15000000,Yes
+90155,DJ Mitchell,Daryl Mitchell,,1991-05-20,31,80011,2022,Male,Rajasthan Royals,50001,7500000,No
+90156,DJ Muthuswami,Domnic Muthuswami,,1981-03-09,42,80006,2015,Male,Delhi Capitals,50008,7500000,Yes
+90157,DJ Thornely,Dominic John Thornely,,1978-10-01,44,80002,2008,Male,Mumbai Indians,50005,1000000,Yes
+90158,DJ Willey,David Willey,,1990-02-28,33,80004,2018,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90159,DJG Sammy,Darren Sammy,,1983-12-20,39,80020,2013,Male,Punjab Kings,50009,3000000,Yes
+90160,DJM Short,D'Arcy Short,,1990-08-09,32,80002,2018,Male,Rajasthan Royals,50001,40000000,Yes
+90161,DL Chahar,Deepak Chahar,,1992-08-07,30,80006,2011,Male,Chennai Super Kings,50003,140000000,No
+90162,DL Vettori,Daniel Vettori,,1979-01-27,44,80011,2008,Male,Royal Challengers Bangalore,50010,29298500,Yes
+90163,DM Bravo,Darren Bravo,,1989-02-06,34,80020,2012,Male,Kolkata Knight Riders,50004,5000000,Yes
+90164,DNT Zoysa,Nuwan Zoysa,,1978-05-13,44,80017,2008,Male,Deccan Chargers,50002,5403200,Yes
+90165,DP Conway,Devon Conway,,1991-07-08,31,80011,2022,Male,Chennai Super Kings,50003,10000000,Yes
+90166,DP Nannes,Dirk Nannes,,1976-05-16,46,80002,2009,Male,Chennai Super Kings,50003,31962000,Yes
+90167,DP Vijaykumar,Paidikalva Vijaykumar,,1986-10-20,36,80006,2008,Male,Deccan Chargers,50002,1200000,Yes
+90168,DPMD Jayawardene,Mahela Jayawardene,,1977-05-27,45,80017,2008,Male,Delhi Capitals,50008,64400000,Yes
+90169,DR Martyn,Damien Martyn,,1971-10-21,51,80002,2010,Male,Rajasthan Royals,50001,4629000,Yes
+90170,DR Sams,Daniel Sams,,1992-10-27,30,80002,2020,Male,Lucknow Super Giants,50011,7500000,No
+90171,DR Shorey,Dhruv Shorey,,1992-06-05,30,80006,2018,Male,Chennai Super Kings,50003,2000000,Yes
+90172,DR Smith,Dwayne Smith,,1983-04-12,40,80020,2008,Male,Gujarat Lions,50012,23000000,Yes
+90173,DS Kulkarni,Dhawal Kulkarni,,1988-12-10,34,80006,2008,Male,Mumbai Indians,50005,7500000,No
+90174,DS Lehmann,Darren Lehmann,,1970-02-05,53,80002,2008,Male,Rajasthan Royals,50001,1200000,Yes
+90175,DT Christian,Daniel Christian,,1983-05-04,39,80002,2011,Male,Delhi Capitals,50008,15000000,Yes
+90176,DT Patil,Devraj Patil,,1984-12-06,38,80006,2008,Male,Royal Challengers Bangalore,50010,1200000,Yes
+90177,DW Steyn,Dale Steyn,,1983-06-27,39,80016,2008,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90178,E Lewis,Evin Lewis,,1991-12-27,31,80020,2018,Male,Lucknow Super Giants,50011,20000000,No
+90179,EJG Morgan,Eoin Morgan,,1986-09-10,36,80004,2010,Male,Kolkata Knight Riders,50004,52500000,Yes
+90180,ER Dwivedi,Eklavya Dwivedi,,1988-07-22,34,80006,2011,Male,Sunrisers Hyderabad,50006,7500000,Yes
+90181,F Behardien,Farhaan Behardien,,1983-10-09,39,80016,2016,Male,Punjab Kings,50009,3000000,Yes
+90182,F du Plessis,Francois du Plessis,,1984-07-13,38,80016,2011,Male,Royal Challengers Bangalore,50010,70000000,No
+90183,FA Allen,Fabian Allen,,1995-05-07,27,80020,2020,Male,Mumbai Indians,50005,7500000,No
+90184,Fazalhaq Farooqi,Fazalhaq Farooqi,,2000-09-22,22,80001,2022,Male,Sunrisers Hyderabad,50006,5000000,Yes
+90185,FH Edwards,Fidel Edwards,,1982-02-06,41,80020,2009,Male,Rajasthan Royals,50001,11186700,Yes
+90186,FY Fazal,Faiz Fazal,,1985-09-07,37,80006,2010,Male,Rajasthan Royals,50001,3000000,Yes
+90187,G Gambhir,Gautam Gambhir,,1981-10-14,41,80006,2008,Male,Delhi Capitals,50008,28000000,Yes
+90188,Gagandeep Singh,Gagandeep Singh,,1985-04-08,38,80006,2008,Male,Punjab Kings,50009,1200000,Yes
+90189,GB Hogg,Brad Hogg,,1971-02-06,52,80002,2012,Male,Kolkata Knight Riders,50004,5000000,Yes
+90190,GC Smith,Graeme Smith,,1981-02-01,42,80016,2008,Male,Pune Warriors India,50014,25135000,Yes
+90191,GC Viljoen,Hardus Viljoen,,1989-03-06,34,80016,2019,Male,Punjab Kings,50009,7500000,Yes
+90192,GD McGrath,Glenn McGrath,,1970-02-09,53,80002,2009,Male,Delhi Capitals,50008,17192000,Yes
+90193,GD Phillips,Glenn Phillips,,1996-12-06,26,80011,2021,Male,Sunrisers Hyderabad,50006,15000000,No
+90194,GH Vihari,Hanuma Vihari,,1993-10-13,29,80006,2013,Male,Delhi Capitals,50008,20000000,No
+90195,GHS Garton,George Garton,,1997-04-15,25,80004,2021,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90196,GJ Bailey,George Bailey,,1982-09-07,40,80002,2009,Male,Rising Pune Supergiants,50015,5000000,Yes
+90197,GJ Maxwell,Glenn Maxwell,,1988-10-14,34,80002,2012,Male,Royal Challengers Bangalore,50010,110000000,No
+90198,GR Napier,Graham Napier,,1980-01-06,43,80004,2009,Male,Mumbai Indians,50005,1388700,Yes
+90199,GS Sandhu,Gurinder Sandhu,,1993-06-14,29,80002,2015,Male,Delhi Capitals,50008,17000000,Yes
+90200,Gurkeerat Singh,Gurkeerat Singh,,1990-06-29,32,80006,2008,Male,Gujarat Titans,50007,5000000,No
+90201,H Das,Halhadar Das,,1986-08-02,36,80006,2008,Male,Deccan Chargers,50002,800000,Yes
+90202,H Klaasen,Heinrich Klaasen,,1991-07-30,31,80016,2018,Male,Sunrisers Hyderabad,50006,52500000,Yes
+90203,Harbhajan Singh,Harbhajan Singh,,1980-07-03,42,80006,2008,Male,Kolkata Knight Riders,50004,20000000,Yes
+90204,Harmeet Singh,Harmeet Singh,,1990-10-08,32,80006,2009,Male,Rajasthan Royals,50001,1000000,Yes
+90205,Harpreet Brar,Harpreet Brar,,1995-09-16,27,80006,2019,Male,Punjab Kings,50009,38000000,No
+90206,Harpreet Singh,Harpreet Singh,,1990-08-19,32,80006,2010,Male,Delhi Capitals,50008,2000000,Yes
+90207,Harshit Rana,Harshit Rana,,2001-12-22,21,80006,2022,Male,Kolkata Knight Riders,50004,20000000,Yes
+90208,HE van der Dussen,Rassie van der Dussen,,1989-02-07,34,80016,2022,Male,Rajasthan Royals,50001,10000000,Yes
+90209,HF Gurney,Harry Gurney,,1986-10-25,36,80004,2019,Male,Kolkata Knight Riders,50004,7500000,Yes
+90210,HH Gibbs,Herschelle Gibbs,,1974-02-23,49,80016,2008,Male,Mumbai Indians,50005,2513500,Yes
+90211,HH Pandya,Hardik Pandya,,1993-10-11,29,80006,2015,Male,Gujarat Titans,50007,150000000,No
+90212,HM Amla,Hashim Amla,,1983-03-31,40,80016,2016,Male,Punjab Kings,50009,10000000,Yes
+90213,HR Shokeen,Hrithik Shokeen,,2000-08-14,22,80006,2022,Male,Mumbai Indians,50005,2000000,No
+90214,HV Patel,Harshal Patel,,1990-11-23,32,80006,2012,Male,Royal Challengers Bangalore,50010,107500000,No
+90215,I Malhotra,Ishan Malhotra,,1984-05-22,38,80006,2010,Male,Deccan Chargers,50002,2000000,Yes
+90216,I Sharma,Ishant Sharma,,1988-09-02,34,80006,2008,Male,Delhi Capitals,50008,5000000,Yes
+90217,I Udana,Isuru Udana,,1988-02-17,35,80017,2020,Male,Royal Challengers Bangalore,50010,5000000,Yes
+90218,IC Pandey,Ishwar Pandey,,1989-08-15,33,80006,2013,Male,Rising Pune Supergiants,50015,2000000,Yes
+90219,IC Porel,Ishan Porel,,1998-09-05,24,80006,2020,Male,Punjab Kings,50009,2500000,No
+90220,IK Pathan,Irfan Pathan,,1984-10-27,38,80006,2008,Male,Gujarat Lions,50012,5000000,Yes
+90221,Imran Tahir,Imran Tahir,,1979-03-27,44,80016,2014,Male,Chennai Super Kings,50003,10000000,Yes
+90222,Iqbal Abdulla,Iqbal Abdulla,,1989-12-02,33,80006,2008,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90223,IR Jaggi,Ishank Jaggi,,1989-01-27,34,80006,2009,Male,Kolkata Knight Riders,50004,2000000,Yes
+90224,IS Sodhi,Ish Sodhi,,1992-10-31,30,80011,2018,Male,Rajasthan Royals,50001,5000000,No
+90225,Ishan Kishan,Ishan Malhotra,,1984-05-22,38,80006,2010,Male,Delhi Capitals,50008,2000000,Yes
+90226,J Arunkumar,Jagadeesh Arunkumar,,1975-01-18,48,80006,2008,Male,Royal Challengers Bangalore,50010,1200000,Yes
+90227,J Botha,Johan Botha,,1982-05-02,40,80016,2009,Male,Kolkata Knight Riders,50004,10000000,Yes
+90228,J Suchith,Jagadeesha Suchith,,1994-01-16,29,80006,2015,Male,Sunrisers Hyderabad,50006,2000000,No
+90229,J Syed Mohammad,Syed Mohammed,,1983-06-03,39,80006,2014,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90230,J Theron,Rusty Theron,,1983-06-03,39,80016,2011,Male,Deccan Chargers,50002,4272950,Yes
+90231,J Yadav,Jayant Yadav,,1990-01-22,33,80006,2014,Male,Gujarat Titans,50007,17000000,No
+90232,JA Morkel,Albie Morkel,,1981-06-10,41,80016,2008,Male,Rising Pune Supergiants,50015,3000000,Yes
+90233,JA Richardson,Jhye Richardson,,1996-09-20,26,80002,2021,Male,Mumbai Indians,50005,15000000,Yes
+90234,Jalaj S Saxena,Jalaj Saxena,,1986-12-15,36,80006,2013,Male,Punjab Kings,50009,3000000,Yes
+90235,Jaskaran Singh,Jaskaran Singh,,1993-01-13,30,80006,2009,Male,Rising Pune Supergiants,50015,1000000,Yes
+90236,JC Archer,Jofra Archer,,1995-04-01,28,80004,2018,Male,Mumbai Indians,50005,80000000,No
+90237,JC Buttler,Jos Buttler,,1990-09-08,32,80004,2016,Male,Rajasthan Royals,50001,100000000,No
+90238,JD Ryder,Jesse Ryder,,1984-08-06,38,80011,2009,Male,Delhi Capitals,50008,13850200,Yes
+90239,JD Unadkat,Jaydev Unadkat,,1991-10-18,31,80006,2011,Male,Lucknow Super Giants,50011,5000000,No
+90240,JDP Oram,Jacob Oram,,1978-07-28,44,80011,2008,Male,Mumbai Indians,50005,2663500,Yes
+90241,JDS Neesham,Jimmy Neesham,,1990-09-17,32,80011,2021,Male,Rajasthan Royals,50001,15000000,No
+90242,JE Taylor,Jerome Taylor,,1984-06-22,38,80020,2009,Male,Mumbai Indians,50005,5000000,Yes
+90243,JEC Franklin,James Franklin,,1980-11-07,42,80011,2011,Male,Mumbai Indians,50005,5327000,Yes
+90244,JH Kallis,Jacques Kallis,,1975-10-16,47,80016,2008,Male,Kolkata Knight Riders,50004,55000000,Yes
+90245,JJ Bumrah,Jasprit Bumrah,,1993-12-06,29,80006,2013,Male,Mumbai Indians,50005,120000000,No
+90246,JJ Roy,Jason Roy,,1990-07-21,32,80004,2017,Male,Sunrisers Hyderabad,50006,20000000,No
+90247,JJ van der Wath,Johan van der Wath,,1978-01-10,45,80016,2011,Male,Royal Challengers Bangalore,50010,2300000,Yes
+90248,JL Denly,Joe Denly,,1986-03-16,37,80004,2019,Male,Kolkata Knight Riders,50004,10000000,Yes
+90249,JL Pattinson,James Pattinson,,1990-05-03,32,80002,2011,Male,Mumbai Indians,50005,15000000,Yes
+90250,JM Bairstow,Jonny Bairstow,,1989-09-26,33,80004,2019,Male,Punjab Kings,50009,67500000,No
+90251,JM Kemp,Justin Kemp,,1977-10-02,45,80016,2010,Male,Chennai Super Kings,50003,4629000,Yes
+90252,JM Sharma,Jitesh Sharma,,1993-10-22,29,80006,2016,Male,Punjab Kings,50009,2000000,No
+90253,JO Holder,Jason Holder,,1991-11-05,31,80020,2013,Male,Rajasthan Royals,50001,57500000,No
+90254,Joginder Sharma,Joginder Sharma,,1983-10-23,39,80006,2008,Male,Chennai Super Kings,50003,6900000,Yes
+90255,JP Behrendorff,Jason Behrendorff,,1990-04-20,32,80002,2018,Male,Royal Challengers Bangalore,50010,7500000,No
+90256,JP Duminy,JP Duminy,,1984-04-14,39,80016,2009,Male,Mumbai Indians,50005,10000000,Yes
+90257,JP Faulkner,James Faulkner,,1990-04-29,32,80002,2011,Male,Gujarat Lions,50012,75000000,Yes
+90258,JPR Scantlebury-Searles,Javon Searles,,1986-12-21,36,80020,2018,Male,Kolkata Knight Riders,50004,3000000,Yes
+90259,JR Hazlewood,Josh Hazlewood,,1991-01-08,32,80002,2014,Male,Royal Challengers Bangalore,50010,77500000,No
+90260,JR Hopes,James Hopes,,1978-10-24,44,80002,2011,Male,Delhi Capitals,50008,16100000,Yes
+90261,JR Philippe,Josh Philippe,,1997-06-01,25,80002,2020,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90262,JW Hastings,John Hastings,,1985-11-04,37,80002,2011,Male,Kolkata Knight Riders,50004,13000000,Yes
+90263,K Goel,Karan Goel,,1986-12-24,36,80006,2008,Male,Punjab Kings,50009,1200000,Yes
+90264,K Gowtham,Krishnappa Gowtham,,1988-10-20,34,80006,2017,Male,Lucknow Super Giants,50011,9000000,No
+90265,K Kartikeya,Kumar Kartikeya Singh,,1997-12-26,25,80006,2022,Male,Mumbai Indians,50005,2000000,No
+90266,K Khejroliya,Kulwant Khejroliya,,1992-03-13,31,80006,2017,Male,Kolkata Knight Riders,50004,2000000,No
+90267,K Rabada,Kagiso Rabada,,1995-05-25,27,80016,2017,Male,Punjab Kings,50009,92500000,No
+90268,K Santokie,Krishmar Santokie,,1984-12-20,38,80020,2014,Male,Mumbai Indians,50005,3000000,Yes
+90269,K Upadhyay,Krishnakant Upadhyay,,1986-06-18,36,80006,2012,Male,Pune Warriors India,50014,800000,Yes
+90270,K Yadav,Kuldeep Yadav,,1994-12-14,28,80006,2012,Male,Delhi Capitals,50008,20000000,No
+90271,KA Jamieson,Kyle Jamieson,,1994-12-30,28,80011,2021,Male,Chennai Super Kings,50003,10000000,Yes
+90272,KA Pollard,Kieron Pollard,,1987-05-12,35,80020,2010,Male,Mumbai Indians,50005,60000000,No
+90273,KAJ Roach,Kemar Roach,,1987-05-12,35,80020,2010,Male,Deccan Chargers,50002,33328800,Yes
+90274,Kamran Akmal,Kamran Akmal,,1982-01-13,41,80013,2008,Male,Rajasthan Royals,50001,6000000,Yes
+90275,Kamran Khan,Kamran Khan,,1991-03-10,32,80006,2009,Male,Pune Warriors India,50014,1000000,Yes
+90276,Karanveer Singh,Karanveer Singh,,1987-11-08,35,80006,2015,Male,Punjab Kings,50009,1000000,Yes
+90277,Kartik Tyagi,Kartik Tyagi,,2000-11-08,22,80006,2020,Male,Sunrisers Hyderabad,50006,40000000,No
+90278,KB Arun Karthik,Arun Karthik,,1986-02-15,37,80006,2008,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90279,KC Cariappa,KC Cariappa,,1994-04-13,29,80006,2015,Male,Rajasthan Royals,50001,3000000,No
+90280,KC Sangakkara,Kumar Sangakkara,,1977-10-27,45,80017,2008,Male,Sunrisers Hyderabad,50006,37289000,Yes
+90281,KD Karthik,Dinesh Karthik,,1985-06-01,37,80006,2008,Male,Royal Challengers Bangalore,50010,55000000,No
+90282,KH Pandya,Krunal Pandya,,1991-03-24,32,80006,2016,Male,Lucknow Super Giants,50011,82500000,No
+90283,KJ Abbott,Kyle Abbott,,1987-06-18,35,80016,2012,Male,Punjab Kings,50009,21000000,Yes
+90284,KK Ahmed,Khaleel Ahmed,,1997-12-05,25,80006,2008,Male,Delhi Capitals,50008,52500000,No
+90285,KK Cooper,Kevon Cooper,,1989-02-02,34,80020,2008,Male,Rajasthan Royals,50001,3000000,Yes
+90286,KK Nair,Karun Nair,,1991-12-06,31,80006,2008,Male,Rajasthan Royals,50001,11000000,No
+90287,KL Nagarkoti,Kamlesh Nagarkoti,,1999-12-28,23,80006,2008,Male,Delhi Capitals,50008,11000000,No
+90288,KL Rahul,KL Rahul,,1992-04-18,30,80006,2013,Male,Lucknow Super Giants,50011,170000000,No
+90289,KM Asif,KM Asif,,1993-06-24,29,80006,2018,Male,Rajasthan Royals,50001,2000000,No
+90290,KM Jadhav,Kedar Jadhav,,1985-03-26,38,80006,2008,Male,Sunrisers Hyderabad,50006,20000000,Yes
+90291,KMA Paul,Keemo Paul,,1998-02-21,25,80020,2019,Male,Delhi Capitals,50008,5000000,Yes
+90292,KMDN Kulasekara,Nuwan Kulasekara,,1985-07-15,37,80017,2008,Male,Chennai Super Kings,50003,5327000,Yes
+90293,KP Appanna,KP Appanna,,1988-12-20,34,80006,2008,Male,Royal Challengers Bangalore,50010,800000,Yes
+90294,KP Pietersen,Kevin Pietersen,,1980-06-27,42,80004,2008,Male,Rising Pune Supergiants,50015,55000000,Yes
+90295,KR Sen,Kuldeep Sen,,1996-10-22,26,80006,2020,Male,Rajasthan Royals,50001,1000000,No
+90296,KS Bharat,Srikar Bharat,,1993-10-03,29,80006,2015,Male,Delhi Capitals,50008,600000,No
+90297,KS Sharma,Karan Sharma,,1998-10-31,24,80006,2021,Male,Lucknow Super Giants,50011,2000000,No
+90298,KS Williamson,Kane Williamson,,1990-08-08,32,80011,2015,Male,Sunrisers Hyderabad,50006,1000000,No
+90299,Kuldeep Yadav,Kuldeep Yadav,,1994-12-14,28,80006,2012,Male,Delhi Capitals,50008,20000000,No
+90300,KV Sharma,Karn Sharma,,1987-10-23,35,80006,2009,Male,Royal Challengers Bangalore,50010,2000000,No
+90301,KW Richardson,Kane Richardson,,1991-02-12,32,80002,2013,Male,Royal Challengers Bangalore,50010,34000000,Yes
+90302,L Ablish,Love Ablish,,1982-12-03,40,80006,2010,Male,Punjab Kings,50009,3000000,Yes
+90303,L Balaji,Lakshmipathy Balaji,,1981-09-27,41,80006,2008,Male,Punjab Kings,50009,40000000,Yes
+90304,L Ngidi,Lungi Ngidi,,1996-03-29,27,80016,2018,Male,Delhi Capitals,50008,100000000,No
+90305,L Ronchi,Luke Ronchi,,1981-04-23,41,80011,2008,Male,Mumbai Indians,50005,3000000,Yes
+90306,LA Carseldine,Lee Carseldine,,1975-11-17,47,80002,2009,Male,Rajasthan Royals,50001,2000000,Yes
+90307,LA Pomersbach,Luke Pomersbach,,1984-09-28,38,80002,2008,Male,Punjab Kings,50009,100000000,Yes
+90308,Lalit Yadav,Lalit Yadav,,1997-01-03,26,80006,2020,Male,Delhi Capitals,50008,6500000,No
+90309,LE Plunkett,Liam Plunkett,,1985-04-06,38,80004,2018,Male,Delhi Capitals,50008,1200000,Yes
+90310,LH Ferguson,Lockie Ferguson,,1991-06-13,31,80011,2017,Male,Gujarat Titans,50007,5000000,No
+90311,LI Meriwala,Lukman Hussain Meriwala,,1991-12-11,31,80006,2021,Male,Delhi Capitals,50008,20000000,Yes
+90312,LJ Wright,Luke Wright,,1985-03-07,38,80004,2012,Male,Pune Warriors India,50014,1000000,Yes
+90313,LMP Simmons,Lendl Simmons,,1985-01-25,38,80020,2014,Male,Mumbai Indians,50005,38000000,Yes
+90314,LPC Silva,Chamara Silva,,1979-12-14,43,80017,2008,Male,Deccan Chargers,50002,2000000,Yes
+90315,LR Shukla,Laxmi Ratan Shukla,,1981-05-06,41,80006,2008,Male,Sunrisers Hyderabad,50006,10000000,Yes
+90316,LRPL Taylor,Ross Taylor,,1984-03-08,39,80011,2008,Male,Punjab Kings,50009,1000000,Yes
+90317,LS Livingstone,Liam Livingstone,,1993-08-04,29,80004,2019,Male,Punjab Kings,50009,2000000,No
+90318,M Ashwin,Murugan Ashwin,,1990-09-08,32,80006,2016,Male,Mumbai Indians,50005,1000000,No
+90319,M de Lange,Marchant de Lange,,1990-10-13,32,80016,2012,Male,Mumbai Indians,50005,6900000,Yes
+90320,M Jansen,Marco Jansen,,2000-05-01,22,80016,2021,Male,Sunrisers Hyderabad,50006,55000000,No
+90321,M Kaif,Mohammad Kaif,,1980-12-01,42,80006,2008,Male,Royal Challengers Bangalore,50010,82500000,Yes
+90322,M Kartik,Murali Kartik,,1976-09-11,46,80006,2008,Male,Punjab Kings,50009,21000000,Yes
+90323,M Klinger,Michael Klinger,,1980-07-04,42,80002,2011,Male,Kochi Tuskers Kerala,50013,52500000,Yes
+90324,M Manhas,Mithun Manhas,,1979-10-12,43,80006,2008,Male,Chennai Super Kings,50003,3000000,Yes
+90325,M Markande,Mayank Markande,,1997-11-11,25,80006,2018,Male,Mumbai Indians,50005,11000000,No
+90326,M Morkel,Morne Morkel,,1984-10-06,38,80016,2008,Male,Kolkata Knight Riders,50004,11000000,Yes
+90327,M Muralitharan,Muttiah Muralitharan,,1972-04-17,50,80017,2008,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90328,M Ntini,Makhaya Ntini,,1977-07-06,45,80016,2008,Male,Chennai Super Kings,50003,5000000,Yes
+90329,M Pathirana,Matheesha Pathirana,,2002-12-19,20,80017,2022,Male,Chennai Super Kings,50003,5327000,No
+90330,M Prasidh Krishna,Prasidh Krishna,,1996-02-19,27,80006,2008,Male,Rajasthan Royals,50001,55000000,No
+90331,M Rawat,Mahesh Rawat,,1985-10-25,37,80006,2008,Male,Pune Warriors India,50014,1000000,Yes
+90332,M Shahrukh Khan,Shahrukh Khan,,1995-05-27,27,80006,2020,Male,Punjab Kings,50009,600000,No
+90333,M Theekshana,Maheesh Theekshana,,2000-08-01,22,80017,2022,Male,Chennai Super Kings,50003,2000000,No
+90334,M Vijay,Murali Vijay,,1984-04-01,39,80006,2009,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90335,M Vohra,Manan Vohra,,1993-07-18,29,80006,2011,Male,Lucknow Super Giants,50011,2000000,No
+90336,MA Agarwal,Mayank Agarwal,,1991-02-16,32,80006,2008,Male,Punjab Kings,50009,34000000,No
+90337,MA Khote,Musavir Khote,,1980-04-22,42,80006,2008,Male,Mumbai Indians,50005,3000000,Yes
+90338,MA Starc,Mitchell Starc,,1990-01-30,33,80002,2014,Male,Kolkata Knight Riders,50004,40000000,Yes
+90339,MA Wood,Mark Wood,,1990-01-11,33,80004,2018,Male,Lucknow Super Giants,50011,100000000,No
+90340,Mandeep Singh,Mandeep Singh,,1972-05-04,50,80006,2011,Male,Kolkata Knight Riders,50004,5000000,No
+90341,Mashrafe Mortaza,Mashrafe Mortaza,,1983-10-05,39,80003,2009,Male,Kolkata Knight Riders,50004,29472000,Yes
+90342,MB Parmar,Mohnish Parmar,,1988-04-12,35,80006,2008,Male,Lucknow Super Giants,50011,3000000,Yes
+90343,MC Henriques,Moises Henriques,,1998-02-01,29,80002,2009,Male,Punjab Kings,50009,2000000,Yes
+90344,MC Juneja,Manpreet Juneja,,1990-09-12,32,80006,2012,Male,Rajasthan Royals,50001,100000000,Yes
+90345,MD Mishra,Mohnish Mishra,,1984-02-09,39,80006,2008,Male,Pune Warriors India,50014,1200000,Yes
+90346,MDKJ Perera,Kusal Perera,,1990-08-17,32,80017,2008,Male,Rajasthan Royals,50001,5000000,Yes
+90347,MEK Hussey,Mike Hussey,,1975-05-27,47,80002,2008,Male,Chennai Super Kings,50003,20000000,Yes
+90348,MF Maharoof,Farveez Maharoof,,1984-09-07,38,80017,2008,Male,Delhi Capitals,50008,1000000,Yes
+90349,MG Johnson,Mitchell Johnson,,1981-11-02,41,80002,2012,Male,Kolkata Knight Riders,50004,55000000,Yes
+90350,MG Neser,Michael Neser,,1990-03-29,33,80002,2013,Male,Punjab Kings,50009,1000000,Yes
+90351,Misbah-ul-Haq,Misbah-ul-Haq,,1974-05-28,48,80013,2008,Male,Royal Challengers Bangalore,50010,5020000,Yes
+90352,MJ Clarke,Michael Clarke,,1981-04-02,42,80002,2012,Male,Pune Warriors India,50014,600000,Yes
+90353,MJ Guptill,Martin Guptill,,1986-09-30,36,80011,2016,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90354,MJ Henry,Matt Henry,,1991-12-14,31,80011,2014,Male,Rajasthan Royals,50001,1000000,Yes
+90355,MJ Lumb,Michael Lumb,,1980-02-12,43,80004,2010,Male,Pune Warriors India,50014,2000000,Yes
+90356,MJ McClenaghan,Mitchell McClenaghan,,1986-06-11,36,80011,2015,Male,Mumbai Indians,50005,34000000,Yes
+90357,MJ Santner,Mitchell Santner,,1991-12-14,31,80011,2016,Male,Chennai Super Kings,50003,3000000,No
+90358,MK Lomror,Mahipal Lomror,,1999-11-16,23,80006,2018,Male,Royal Challengers Bangalore,50010,40000000,No
+90359,MK Pandey,Manish Pandey,,1989-09-10,33,80006,2008,Male,Lucknow Super Giants,50011,100000000,No
+90360,MK Tiwary,Manoj Tiwary,,1985-11-14,37,80006,2008,Male,Punjab Kings,50009,3000000,Yes
+90361,ML Hayden,Matthew Hayden,,1971-10-29,51,80002,2008,Male,Chennai Super Kings,50003,2000000,Yes
+90362,MM Ali,Khawar Ali,,1985-12-20,37,80012,2016,Male,Gujarat Lions,50012,100000000,Yes
+90363,MM Patel,Munaf Patel,,1983-07-12,39,80006,2008,Male,Sunrisers Hyderabad,50006,1200000,Yes
+90364,MM Sharma,Mohit Sharma,,1988-09-18,34,80006,2008,Male,Kolkata Knight Riders,50004,5000000,Yes
+90365,MN Samuels,Marlon Samuels,,1981-01-05,42,80020,2012,Male,Delhi Capitals,50008,20000000,Yes
+90366,MN van Wyk,Morné van Wyk,,1979-03-20,44,80016,2008,Male,Kolkata Knight Riders,50004,1000000,Yes
+90367,Mohammad Ashraful,Mohammad Ashraful,,1984-07-07,38,80003,2009,Male,Mumbai Indians,50005,3684000,Yes
+90368,Mohammad Asif,Mohammad Asif,,1982-12-20,40,80013,2008,Male,Delhi Capitals,50008,26104000,Yes
+90369,Mohammad Hafeez,Mohammad Hafeez,,1980-10-17,42,80013,2008,Male,Kolkata Knight Riders,50004,4016000,Yes
+90370,Mohammad Nabi,Mohammad Nabi,,1985-01-01,38,80001,2017,Male,Kolkata Knight Riders,50004,10000000,No
+90371,Mohammed Shami,Mohammed Shami,,1990-03-09,33,80006,2011,Male,Gujarat Titans,50007,62500000,No
+90372,Mohammed Siraj,Mohammed Siraj,,1994-03-13,29,80006,2017,Male,Royal Challengers Bangalore,50010,70000000,No
+90373,Mohsin Khan,Mohsin Khan,,1998-08-03,24,80006,2018,Male,Lucknow Super Giants,50011,2000000,No
+90374,Monu Kumar,Monu Kumar,,1994-11-05,28,80006,2018,Male,Chennai Super Kings,50003,2000000,Yes
+90375,MP Stoinis,Marcus Stoinis,,1989-08-16,33,80002,2015,Male,Lucknow Super Giants,50011,38000000,No
+90376,MR Marsh,Mitchell Marsh,,1991-10-20,31,80002,2009,Male,Delhi Capitals,50008,2000000,No
+90377,MS Bisla,Manvinder Bisla,,1984-12-27,38,80006,2009,Male,Rising Pune Supergiants,50015,10000000,Yes
+90378,MS Dhoni,Mahendra Singh Dhoni,,1981-07-07,41,80006,2008,Male,Chennai Super Kings,50003,1000000,No
+90379,MS Gony,Manpreet Gony,,1984-01-04,39,80006,2008,Male,Gujarat Lions,50012,2000000,Yes
+90380,MS Wade,Matthew Wade,,1987-12-26,35,80002,2011,Male,Gujarat Titans,50007,1000000,No
+90381,Mujeeb Ur Rahman,Mujeeb Ur Rahman,,2001-03-28,22,80001,2018,Male,Punjab Kings,50009,40000000,No
+90382,Mukesh Choudhary,Mukesh Choudhary,,1996-07-06,26,80006,2008,Male,Chennai Super Kings,50003,6900000,Yes
+90383,Mustafizur Rahman,Mustafizur Rahman,,1995-09-06,27,80003,2016,Male,Delhi Capitals,50008,20000000,No
+90384,MV Boucher,Mark Boucher,,1976-12-03,46,80016,2008,Male,Kolkata Knight Riders,50004,55000000,Yes
+90385,N Jagadeesan,Narayan Jagadeesan,,1995-12-24,27,80006,2018,Male,Chennai Super Kings,50003,82500000,No
+90386,N Pooran,Nicholas Pooran,,1996-01-01,27,80020,2017,Male,Sunrisers Hyderabad,50006,21000000,No
+90387,N Rana,Nitish Rana,,1993-12-27,29,80006,2015,Male,Kolkata Knight Riders,50004,52500000,No
+90388,N Saini,Navdeep Saini,,1992-11-23,30,80006,2008,Male,Rajasthan Royals,50001,3000000,No
+90389,Navdeep Saini,Navdeep Saini,,1992-11-23,30,80006,2017,Male,Rajasthan Royals,50001,26000000,No
+90390,NB Singh,Nathu Singh,,1995-09-08,27,80006,2008,Male,Delhi Capitals,50008,11000000,Yes
+90391,ND Doshi,Nayan Doshi,,1978-10-06,44,80006,2010,Male,Chennai Super Kings,50003,11000000,Yes
+90392,NJ Maddinson,Nic Maddinson,,1991-12-21,31,80002,2008,Male,Royal Challengers Bangalore,50010,20000000,Yes
+90393,NJ Rimmington,Nathan Rimmington,,1982-11-11,40,80002,2011,Male,Punjab Kings,50009,11000000,Yes
+90394,NK Patel,Niraj Patel,,1988-04-20,34,80006,2008,Male,Mumbai Indians,50005,20000000,Yes
+90395,NL McCullum,Nathan McCullum,,1980-09-01,42,80011,2008,Male,Sunrisers Hyderabad,50006,5000000,Yes
+90396,NLTC Perera,Thisara Perera,,1989-04-03,34,80017,2008,Male,Rising Pune Supergiants,50015,5327000,Yes
+90397,NM Coulter-Nile,Nathan Coulter-Nile,,1987-10-11,35,80002,2013,Male,Rajasthan Royals,50001,20000000,No
+90398,NS Naik,Prashant Naik,,1986-09-02,36,80006,2011,Male,Delhi Capitals,50008,2000000,Yes
+90399,NT Ellis,Nathan Ellis,,1994-09-22,28,80002,2021,Male,Punjab Kings,50009,7500000,No
+90400,NV Ojha,Naman Ojha,,1983-07-20,39,80006,2008,Male,Royal Challengers Bangalore,50010,14000000,Yes
+90401,O Thomas,Oshane Thomas,,1997-02-18,26,80020,2008,Male,Rajasthan Royals,50001,2000000,Yes
+90402,OA Shah,Owais Shah,,1978-10-22,44,80004,2008,Male,Sunrisers Hyderabad,50006,5000000,Yes
+90403,OC McCoy,Obed McCoy,,1997-01-04,26,80020,2022,Male,Rajasthan Royals,50001,7500000,No
+90404,OF Smith,Odean Smith,,1996-11-01,26,80020,2022,Male,Punjab Kings,50009,5000000,No
+90405,P Amarnath,Palani Amarnath,,1982-06-01,40,80006,2008,Male,Chennai Super Kings,50003,400000,Yes
+90406,P Awana,Parvinder Awana,,1986-07-19,36,80006,2010,Male,Punjab Kings,50009,6500000,Yes
+90407,P Chopra,Prashant Chopra,,1992-10-07,30,80006,2018,Male,Rajasthan Royals,50001,2000000,Yes
+90408,P Dogra,Paras Dogra,,1984-11-19,38,80006,2009,Male,Punjab Kings,50009,1000000,Yes
+90409,P Dubey,Praveen Dubey,,1993-07-01,29,80006,2016,Male,Delhi Capitals,50008,1000000,Yes
+90410,P Kumar,Praveen Kumar,,1986-10-02,36,80006,2008,Male,Chennai Super Kings,50003,35000000,Yes
+90411,P Negi,Pawan Negi,,1993-01-06,30,80006,2012,Male,Sunrisers Hyderabad,50006,5000000,No
+90412,P Parameswaran,Prasanth Parameswaran,,1985-05-30,37,80006,2011,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90413,P Prasanth,Padmanabhan Prasanth,,1985-05-22,37,80006,2011,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90414,P Ray Barman,Prayas Ray Barman,,2002-10-25,20,80006,2019,Male,Royal Challengers Bangalore,50010,15000000,Yes
+90415,P Sahu,Pardeep Sahu,,1985-08-21,37,80006,2015,Male,Punjab Kings,50009,2000000,Yes
+90416,P Simran Singh,Prabhsimran Singh,,2000-08-10,22,80006,2019,Male,Punjab Kings,50009,6000000,No
+90417,P Suyal,Pawan Suyal,,1989-10-15,33,80006,2011,Male,Rajasthan Royals,50001,1000000,Yes
+90418,PA Patel,Parthiv Patel,,1985-03-09,38,80006,2008,Male,Royal Challengers Bangalore,50010,17000000,Yes
+90419,PA Reddy,Akshath Reddy,,1991-02-11,32,80006,2008,Male,Deccan Chargers,50002,1000000,Yes
+90420,Pankaj Singh,Pankaj Singh,,1985-05-06,37,80006,2008,Male,Royal Challengers Bangalore,50010,6900000,Yes
+90421,Parvez Rasool,Parvez Rasool,,1989-02-13,34,80006,2013,Male,Royal Challengers Bangalore,50010,9500000,Yes
+90422,PBB Rajapaksa,Bhanuka Rajapaksa,,1991-10-24,31,80017,2022,Male,Punjab Kings,50009,5000000,No
+90423,PC Valthaty,Paul Valthaty,,1983-12-07,39,80006,2009,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90424,PD Collingwood,Paul Collingwood,,1976-05-26,46,80004,2009,Male,Rajasthan Royals,50001,12567500,Yes
+90425,PH Solanki,Prashant Solanki,,2000-02-22,23,80006,2022,Male,Chennai Super Kings,50003,12000000,No
+90426,PJ Cummins,Pat Cummins,,1993-05-08,29,80002,2014,Male,Kolkata Knight Riders,50004,72500000,No
+90427,PJ Sangwan,Pradeep Sangwan,,1990-11-05,32,80006,2008,Male,Gujarat Titans,50007,2000000,No
+90428,PK Garg,Priyam Garg,,2000-11-30,22,80006,2020,Male,Sunrisers Hyderabad,50006,2000000,No
+90429,PM Sarvesh Kumar,PM Sarvesh Kumar,,1989-04-26,33,80006,2008,Male,Deccan Chargers,50002,800000,Yes
+90430,PN Mankad,Prerak Mankad,,1994-04-23,28,80006,2021,Male,Punjab Kings,50009,2000000,No
+90431,PP Chawla,Piyush Chawla,,1988-12-24,34,80006,2008,Male,Mumbai Indians,50005,5000000,Yes
+90432,PP Ojha,Pragyan Ojha,,1986-09-05,36,80006,2008,Male,Mumbai Indians,50005,5000000,Yes
+90433,PP Shaw,Prithvi Shaw,,1999-11-09,23,80006,2018,Male,Delhi Capitals,50008,75000000,No
+90434,PR Shah,Pinal Shah,,1987-11-03,35,80006,2008,Male,Punjab Kings,50009,3000000,Yes
+90435,PSP Handscomb,Peter Handscomb,,1991-04-26,31,80002,2016,Male,Rising Pune Supergiants,50015,3000000,Yes
+90436,PV Tambe,Pravin Tambe,,1971-10-08,51,80006,2013,Male,Kolkata Knight Riders,50004,2000000,Yes
+90437,PVD Chameera,Dushmantha Chameera,,1992-01-11,31,80017,2016,Male,Lucknow Super Giants,50011,20000000,No
+90438,PWH de Silva,Wanindu Hasaranga,,1997-07-29,25,80017,2021,Male,Royal Challengers Bangalore,50010,107500000,No
+90439,Q de Kock,Quinton de Kock,,1992-12-17,30,80016,2013,Male,Lucknow Super Giants,50011,67500000,No
+90440,R Ashwin,Ravichandran Ashwin,,1986-09-17,36,80006,2008,Male,Rajasthan Royals,50001,50000000,No
+90441,R Bhatia,Rajat Bhatia,,1979-10-22,43,80006,2008,Male,Rising Pune Supergiants,50015,6000000,Yes
+90442,R Bishnoi,Ravi Bishnoi,,2000-09-05,22,80006,2020,Male,Lucknow Super Giants,50011,40000000,No
+90443,R Dhawan,Rishi Dhawan,,1990-02-19,33,80006,2008,Male,Punjab Kings,50009,5500000,No
+90444,R Dravid,Rahul Dravid,,1973-01-11,50,80006,2008,Male,Rajasthan Royals,50001,23000000,Yes
+90445,R McLaren,Ryan McLaren,,1983-02-09,40,80016,2009,Male,Kolkata Knight Riders,50004,2663500,Yes
+90446,R Ninan,Ryan Ninan,,1985-11-19,37,80006,2009,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90447,R Parag,Riyan Parag,,2001-11-10,21,80006,2019,Male,Rajasthan Royals,50001,38000000,No
+90448,R Powell,Rovman Powell,,1993-07-23,29,80020,2017,Male,Kolkata Knight Riders,50004,28000000,Yes
+90449,R Rampaul,Ravi Rampaul,,1984-10-15,38,80020,2013,Male,Royal Challengers Bangalore,50010,9000000,Yes
+90450,R Sai Kishore,Ravisrinivasan Sai Kishore,,1996-11-06,26,80006,2020,Male,Gujarat Titans,50007,30000000,No
+90451,R Sanjay Yadav,Sanjay Yadav,,1995-05-10,27,80006,2017,Male,Mumbai Indians,50005,5000000,No
+90452,R Sathish,Rajagopal Sathish,,1981-01-14,42,80006,2010,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90453,R Sharma,Rahul Sharma,,1986-11-30,36,80006,2010,Male,Rajasthan Royals,50001,3000000,Yes
+90454,R Shepherd,Romario Shepherd,,1994-11-26,28,80020,2008,Male,Sunrisers Hyderabad,50006,5000000,Yes
+90455,R Shukla,Rahul Shukla,,1990-08-28,32,80006,2010,Male,Delhi Capitals,50008,4000000,Yes
+90456,R Tewatia,Rahul Tewatia,,1993-05-20,29,80006,2014,Male,Gujarat Titans,50007,90000000,No
+90457,R Vinay Kumar,Vinay Kumar,,1984-02-12,39,80006,2008,Male,Delhi Capitals,50008,10000000,Yes
+90458,RA Bawa,Raj Angad Bawa,,2002-11-12,20,80006,2022,Male,Punjab Kings,50009,20000000,No
+90459,RA Jadeja,Ravindra Jadeja,,1988-12-06,34,80006,2008,Male,Chennai Super Kings,50003,150000000,No
+90460,RA Shaikh,Rahil Shaikh,,1985-06-12,37,80006,2009,Male,Mumbai Indians,50005,800000,Yes
+90461,RA Tripathi,Rahul Tripathi,,1991-03-02,32,80006,2017,Male,Sunrisers Hyderabad,50006,85000000,No
+90462,Ramandeep Singh,Ramandeep Singh,,1997-04-13,26,80006,2022,Male,Mumbai Indians,50005,2000000,No
+90463,Rashid Khan,Rashid Khan,,1998-09-20,24,80001,2017,Male,Gujarat Titans,50007,150000000,No
+90464,Rasikh Salam,Rasikh Salam Dar,,2000-04-05,23,80006,2019,Male,Kolkata Knight Riders,50004,5000000,No
+90465,Ravi Bishnoi,Ravi Bishnoi,,2000-09-05,22,80006,2020,Male,Lucknow Super Giants,50011,40000000,No
+90466,RD Chahar,Rahul Chahar,,1999-08-04,23,80006,2017,Male,Punjab Kings,50009,52500000,No
+90467,RD Gaikwad,Ruturaj Gaikwad,,1997-01-31,26,80006,2019,Male,Chennai Super Kings,50003,60000000,No
+90468,RE Levi,Richard Levi,,1988-01-14,35,80016,2012,Male,Mumbai Indians,50005,2513500,Yes
+90469,RE van der Merwe,Roelof van der Merwe,,1984-12-31,38,80016,2009,Male,Chennai Super Kings,50003,2663500,Yes
+90470,RG More,Ronit More,,1992-02-11,31,80006,2013,Male,Chennai Super Kings,50003,1000000,Yes
+90471,RG Sharma,Rohit Sharma,,1993-06-28,29,80006,2008,Male,Mumbai Indians,50005,150000000,No
+90472,RJ Harris,Ryan Harris,,1979-10-11,43,80002,2009,Male,Punjab Kings,50009,17312750,Yes
+90473,RJ Peterson,Robin Peterson,,1979-08-04,43,80016,2012,Male,Mumbai Indians,50005,5027000,Yes
+90474,RJ Quiney,Rob Quiney,,1982-08-20,40,80002,2009,Male,Rajasthan Royals,50001,1473600,Yes
+90475,RK Bhui,Ricky Bhui,,1996-09-29,26,80006,2014,Male,Chennai Super Kings,50003,2000000,Yes
+90476,RK Singh,Rinku Singh,,1997-10-12,25,80006,2017,Male,Kolkata Knight Riders,50004,5500000,No
+90477,RM Patidar,Rajat Patidar,,1993-06-01,29,80006,2021,Male,Royal Challengers Bangalore,50010,2000000,No
+90478,RN ten Doeschate,Ryan ten Doeschate,,1980-06-30,42,80010,2011,Male,Kolkata Knight Riders,50004,10000000,Yes
+90479,RP Meredith,Riley Meredith,,1996-06-21,26,80002,2021,Male,Mumbai Indians,50005,10000000,No
+90480,RP Singh,R. P. Singh,,1985-12-06,37,80006,2008,Male,Rising Pune Supergiants,50015,3000000,Yes
+90481,RR Bhatkal,Raju Bhatkal,,1985-09-01,37,80006,2009,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90482,RR Bose,Ranadeb Bose,,1979-02-27,44,80006,2008,Male,Mumbai Indians,50005,1200000,Yes
+90483,RR Pant,Rishabh Pant,,1997-10-04,25,80006,2016,Male,Delhi Capitals,50008,160000000,No
+90484,RR Powar,Ramesh Powar,,1978-05-20,44,80006,2008,Male,Punjab Kings,50009,7360000,Yes
+90485,RR Raje,Rohan Raje,,1986-09-03,36,80006,2008,Male,Mumbai Indians,50005,400000,Yes
+90486,RR Rossouw,Rilee Rossouw,,1989-10-09,33,80016,2011,Male,Royal Challengers Bangalore,50010,46000000,Yes
+90487,RR Sarwan,Ramnaresh Sarwan,,1980-06-23,42,80020,2008,Male,Punjab Kings,50009,9036000,Yes
+90488,RS Bopara,Ravi Bopara,,1985-05-04,37,80004,2009,Male,Sunrisers Hyderabad,50006,10000000,Yes
+90489,RS Gavaskar,Rohan Gavaskar,,1976-02-20,47,80006,2010,Male,Kolkata Knight Riders,50004,1000000,Yes
+90490,RS Sodhi,Reetinder Singh Sodhi,,1980-10-18,42,80006,2010,Male,Punjab Kings,50009,1200000,Yes
+90491,RT Ponting,Ricky Ponting,,1974-12-19,48,80002,2008,Male,Mumbai Indians,50005,21308000,Yes
+90492,RV Gomez,Raiphi Gomez,,1985-10-16,37,80006,2009,Male,Pune Warriors India,50014,1000000,Yes
+90493,RV Patel,Ripal Patel,,1995-09-28,27,80006,2021,Male,Delhi Capitals,50008,2000000,No
+90494,RV Uthappa,Robin Uthappa,,1985-11-11,37,80006,2008,Male,Chennai Super Kings,50003,20000000,No
+90495,RW Price,Ray Price,,1976-06-12,46,80021,2011,Male,Mumbai Indians,50005,2300000,Yes
+90496,S Anirudha,Anirudha Srikkanth,,1987-04-14,36,80006,2008,Male,Sunrisers Hyderabad,50006,2000000,Yes
+90497,S Aravind,Sreenath Aravind,,1984-04-08,39,80006,2009,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90498,S Badree,Samuel Badree,,1981-03-09,42,80020,2012,Male,Royal Challengers Bangalore,50010,5000000,Yes
+90499,S Badrinath,Subramaniam Badrinath,,1980-08-30,42,80006,2008,Male,Royal Challengers Bangalore,50010,3000000,Yes
+90500,S Chanderpaul,Shivnarine Chanderpaul,,1974-08-16,48,80020,2008,Male,Royal Challengers Bangalore,50010,8032000,Yes
+90501,S Dhawan,Shikhar Dhawan,,1985-12-05,37,80006,2008,Male,Punjab Kings,50009,82500000,No
+90502,S Dube,Shivam Dube,,1993-06-26,29,80006,2019,Male,Chennai Super Kings,50003,40000000,No
+90503,S Gopal,Shreyas Gopal,,1993-09-04,29,80006,2014,Male,Sunrisers Hyderabad,50006,7500000,No
+90504,S Kaul,Siddarth Kaul,,1990-05-19,32,80006,2008,Male,Royal Challengers Bangalore,50010,38000000,Yes
+90505,S Kaushik,Shivil Kaushik,,1995-09-07,27,80006,2016,Male,Gujarat Lions,50012,1000000,Yes
+90506,S Ladda,Sarabjit Ladda,,1986-07-10,36,80006,2010,Male,Rajasthan Royals,50001,1000000,Yes
+90507,S Lamichhane,Sandeep Lamichhane,,2000-08-02,22,80009,2018,Male,Sunrisers Hyderabad,50006,2000000,No
+90508,S Midhun,Sudhesan Midhun,,1994-10-07,28,80006,2018,Male,Chennai Super Kings,50003,2000000,Yes
+90509,S Nadeem,Shahbaz Nadeem,,1989-08-12,33,80006,2011,Male,Lucknow Super Giants,50011,5000000,No
+90510,S Narwal,Sumit Narwal,,1982-04-16,40,80006,2008,Male,Kolkata Knight Riders,50004,1000000,Yes
+90511,S Rana,Sachin Rana,,1984-09-18,38,80006,2009,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90512,S Randiv,Suraj Randiv,,1985-01-30,38,80017,2011,Male,Punjab Kings,50009,4021600,Yes
+90513,S Sandeep Warrier,Sandeep Warrier,,1991-04-04,32,80006,2013,Male,Punjab Kings,50009,2000000,No
+90514,S Sohal,Sunny Sohal,,1987-11-10,35,80006,2008,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90515,S Sreesanth,Sreesanth,,1983-02-06,40,80006,2008,Male,Chennai Super Kings,50003,18400000,Yes
+90516,S Sriram,Sridharan Sriram,,1979-10-30,43,80006,2010,Male,Delhi Capitals,50008,3000000,Yes
+90517,S Tyagi,Sudeep Tyagi,,1987-09-19,35,80006,2008,Male,Sunrisers Hyderabad,50006,4600000,Yes
+90518,S Vidyut,Vidyut Sivaramakrishnan,,1981-12-03,41,80006,2008,Male,Chennai Super Kings,50003,1200000,Yes
+90519,SA Abbott,Sean Abbott,,1992-02-29,31,80002,2015,Male,Sunrisers Hyderabad,50006,24000000,No
+90520,SA Asnodkar,Swapnil Asnodkar,,1984-03-29,39,80006,2008,Male,Rajasthan Royals,50001,3000000,Yes
+90521,SA Yadav,Suryakumar Yadav,,1990-09-14,32,80006,2011,Male,Mumbai Indians,50005,80000000,No
+90522,Sachin Baby,Sachin Baby,,1988-12-18,34,80006,2013,Male,Royal Challengers Bangalore,50010,2000000,Yes
+90523,Salman Butt,Salman Butt,,1984-10-07,38,80013,2008,Male,Kolkata Knight Riders,50004,4016000,Yes
+90524,Sandeep Sharma,Sandeep Sharma,,1993-05-18,29,80006,2013,Male,Punjab Kings,50009,5000000,No
+90525,SB Bangar,Sanjay Bangar,,1972-10-11,50,80006,2008,Male,Kolkata Knight Riders,50004,1200000,Yes
+90526,SB Jakati,Shadab Jakati,,1980-11-27,42,80006,2008,Male,Kolkata Knight Riders,50004,2000000,Yes
+90527,SB Joshi,Sunil Joshi,,1970-06-06,52,80006,2008,Male,Royal Challengers Bangalore,50010,1200000,Yes
+90528,SB Styris,Scott Styris,,1975-07-10,47,80011,2008,Male,Chennai Super Kings,50003,10054000,Yes
+90529,SB Wagh,Shrikant Wagh,,1988-10-09,34,80006,2010,Male,Pune Warriors India,50014,2000000,Yes
+90530,SC Ganguly,Sourav Ganguly,,1972-07-08,50,80006,2008,Male,Pune Warriors India,50014,18400000,Yes
+90531,SC Kuggeleijn,Scott Kuggeleijn,,1992-01-03,31,80011,2019,Male,Chennai Super Kings,50003,2000000,Yes
+90532,SD Chitnis,Siddharth Chitnis,,1987-05-06,35,80006,2008,Male,Punjab Kings,50009,1000000,Yes
+90533,SD Lad,Siddhesh Lad,,1986-07-10,36,80006,2015,Male,Rajasthan Royals,50001,2000000,Yes
+90534,SE Bond,Shane Bond,,1975-06-07,47,80011,2010,Male,Kolkata Knight Riders,50004,34717500,Yes
+90535,SE Marsh,Shaun Marsh,,1983-07-09,39,80002,2008,Male,Chennai Super Kings,50003,22000000,Yes
+90536,SE Rutherford,Sherfane Rutherford,,1998-08-15,24,80020,2019,Male,Royal Challengers Bangalore,50010,10000000,No
+90537,Shahbaz Ahmed,Shahbaz Ahmed,,1994-12-12,28,80006,2022,Male,Royal Challengers Bangalore,50010,24000000,No
+90538,Shahid Afridi,Shahid Afridi,,1980-03-01,43,80013,2008,Male,Deccan Chargers,50002,27108000,Yes
+90539,Shakib Al Hasan,Shakib Al Hasan,,1987-03-24,36,80003,2011,Male,Kolkata Knight Riders,50004,15000000,Yes
+90540,Shashank Singh,Shashank Singh,,1991-11-21,31,80006,2017,Male,Sunrisers Hyderabad,50006,2000000,No
+90541,Shivam Mavi,Shivam Mavi,,1998-11-26,24,80006,2018,Male,Gujarat Titans,50007,60000000,No
+90542,Shivam Sharma,Shivam Sharma,,1993-09-09,29,80006,2014,Male,Punjab Kings,50009,1000000,Yes
+90543,Shoaib Ahmed,Shoaib Ahmed,,1987-11-19,35,80006,2009,Male,Deccan Chargers,50002,736800,Yes
+90544,Shoaib Akhtar,Shoaib Akhtar,,1975-08-13,47,80013,2008,Male,Kolkata Knight Riders,50004,17068000,Yes
+90545,Shoaib Malik,Shoaib Malik,,1982-02-01,41,80013,2008,Male,Delhi Capitals,50008,20080000,Yes
+90546,Shubman Gill,Shubman Gill,,1999-09-08,23,80006,2018,Male,Gujarat Titans,50007,80000000,No
+90547,Simarjeet Singh,Simarjeet Singh,,1998-01-17,25,80006,2021,Male,Chennai Super Kings,50003,2000000,No
+90548,SJ Srivastava,Shalabh Srivastava,,1981-09-22,41,80006,2010,Male,Punjab Kings,50009,3000000,Yes
+90549,SK Raina,Suresh Raina,,1986-11-27,36,80006,2008,Male,Chennai Super Kings,50003,110000000,Yes
+90550,SK Trivedi,Siddharth Trivedi,,1982-09-04,40,80006,2008,Male,Rajasthan Royals,50001,3000000,Yes
+90551,SK Warne,Shane Warne,,1969-09-13,53,80002,2008,Male,Rajasthan Royals,50001,82800000,Yes
+90552,SL Malinga,Lasith Malinga,,1983-08-28,39,80017,2008,Male,Mumbai Indians,50005,20000000,Yes
+90553,SM Boland,Scott Boland,,1989-04-11,34,80002,2016,Male,Rising Pune Supergiants,50015,5000000,Yes
+90554,SM Curran,Sam Curran,,1998-06-03,24,80004,2019,Male,Chennai Super Kings,50003,185000000,Yes
+90555,SM Harwood,Shane Harwood,,1985-04-08,38,80002,2008,Male,Gujarat Lions,50012,982400,Yes
+90556,SM Katich,Simon Katich,,1975-08-21,47,80002,2008,Male,Punjab Kings,50009,9824000,Yes
+90557,SM Pollock,Shaun Pollock,,1973-07-16,49,80016,2008,Male,Mumbai Indians,50005,22088000,Yes
+90558,SMSM Senanayake,Sachithra Senanayake,,1985-02-09,38,80017,2013,Male,Kolkata Knight Riders,50004,33293750,Yes
+90559,SN Khan,Sarfaraz Khan,,1997-10-27,25,80006,2015,Male,Delhi Capitals,50008,2000000,No
+90560,SN Thakur,Shardul Thakur,,1991-10-16,31,80006,2014,Male,Delhi Capitals,50008,107500000,No
+90561,SO Hetmyer,Shimron Hetmyer,,1996-12-26,26,80020,2019,Male,Rajasthan Royals,50001,85000000,No
+90562,Sohail Tanvir,Sohail Tanvir,,1984-12-12,38,80013,2008,Male,Rajasthan Royals,50001,4016000,Yes
+90563,SP Fleming,Stephen Fleming,,1973-04-01,50,80011,2008,Male,Chennai Super Kings,50003,14056000,Yes
+90564,SP Goswami,Shreevats Goswami,,1989-05-18,33,80006,2008,Male,Sunrisers Hyderabad,50006,10000000,Yes
+90565,SP Jackson,Sheldon Jackson,,1986-09-27,36,80006,2013,Male,Kolkata Knight Riders,50004,6000000,No
+90566,SP Narine,Sunil Narine,,1988-05-26,34,80020,2012,Male,Kolkata Knight Riders,50004,60000000,No
+90567,SPD Smith,Steve Smith,,1989-06-02,33,80002,2010,Male,Sunrisers Hyderabad,50006,22000000,No
+90568,SR Tendulkar,Sachin Tendulkar,,1973-04-24,49,80006,2008,Male,Mumbai Indians,50005,82800000,Yes
+90569,SR Watson,Shane Watson,,1985-04-08,38,80002,2008,Male,Chennai Super Kings,50003,40000000,Yes
+90570,SS Agarwal,Shubham Agarwal,,1993-11-21,29,80006,2017,Male,Gujarat Lions,50012,1000000,Yes
+90571,SS Cottrell,Sheldon Cottrell,,1989-08-19,33,80020,2020,Male,Punjab Kings,50009,85000000,Yes
+90572,SS Iyer,Shreyas Iyer,,1994-12-06,28,80006,2015,Male,Kolkata Knight Riders,50004,122500000,No
+90573,SS Mundhe,Shrikant Mundhe,,1988-10-27,34,80006,2011,Male,Kolkata Knight Riders,50004,2000000,Yes
+90574,SS Prabhudessai,Suyash Prabhudessai,,1997-12-06,25,80006,2021,Male,Royal Challengers Bangalore,50010,3000000,No
+90575,SS Sarkar,Soumya Sarkar,,1990-06-29,32,80003,2008,Male,Gujarat Lions,50012,3000000,Yes
+90576,SS Shaikh,Shoaib Shaikh,,1987-01-18,36,80006,2009,Male,Kolkata Knight Riders,50004,800000,Yes
+90577,SS Tiwary,Saurabh Tiwary,,1989-12-30,33,80006,2008,Male,Punjab Kings,50009,5000000,No
+90578,ST Jayasuriya,Sanath Jayasuriya,,1969-06-30,53,80017,2008,Male,Mumbai Indians,50005,45132750,Yes
+90579,STR Binny,Stuart Binny,,1984-06-03,38,80006,2010,Male,Rajasthan Royals,50001,5000000,Yes
+90580,Sunny Gupta,Sunny Gupta,,1988-09-27,34,80006,2012,Male,Delhi Capitals,50008,1000000,Yes
+90581,Sunny Singh,Sunny Singh,,1989-06-06,33,80006,2011,Male,Punjab Kings,50009,3000000,Yes
+90582,SV Samson,Sanju Samson,,1994-11-11,28,80006,2012,Male,Rajasthan Royals,50001,140000000,No
+90583,SW Billings,Sam Billings,,1991-06-15,31,80004,2016,Male,Kolkata Knight Riders,50004,20000000,No
+90584,SW Tait,Shaun Tait,,1983-02-22,40,80002,2009,Male,Kolkata Knight Riders,50004,90000000,Yes
+90585,Swapnil Singh,Swapnil Singh,,1991-01-22,32,80006,2008,Male,Punjab Kings,50009,2000000,Yes
+90586,T Banton,Tom Banton,,1998-11-11,24,80004,2020,Male,Kolkata Knight Riders,50004,10000000,Yes
+90587,T Henderson,Tyron Henderson,,1974-08-01,48,80016,2009,Male,Rajasthan Royals,50001,31928000,Yes
+90588,T Kohli,Taruwar Kohli,,1988-12-17,34,80006,2008,Male,Punjab Kings,50009,600000,Yes
+90589,T Natarajan,T Natarajan,,1991-05-27,31,80006,2017,Male,Sunrisers Hyderabad,50006,40000000,No
+90590,T Shamsi,Tabraiz Shamsi,,1990-02-18,33,80016,2016,Male,Rajasthan Royals,50001,2000000,Yes
+90591,T Stubbs,Tristan Stubbs,,1985-04-08,38,80016,2008,Male,Royal Challengers Bangalore,50010,600000,Yes
+90592,T Taibu,Tatenda Taibu,,1983-05-14,39,80021,2008,Male,Kolkata Knight Riders,50004,5020000,Yes
+90593,T Thushara,Thilan Thushara,,1981-03-01,42,80017,2009,Male,Chennai Super Kings,50003,20000000,Yes
+90594,TA Boult,Trent Boult,,1989-07-22,33,80011,2015,Male,Rajasthan Royals,50001,80000000,No
+90595,TD Paine,Tim Paine,,1984-12-08,38,80002,2011,Male,Pune Warriors India,50014,13572900,Yes
+90596,Tejas Baroka,Tejas Baroka,,1996-02-01,27,80006,2017,Male,Rajasthan Royals,50001,2000000,No
+90597,TG Southee,Tim Southee,,1988-12-11,34,80011,2011,Male,Kolkata Knight Riders,50004,15000000,No
+90598,TH David,Tim David,,1996-03-16,27,80015,2021,Male,Mumbai Indians,50005,82500000,No
+90599,Tilak Varma,Tilak Varma,,2002-11-08,20,80006,2022,Male,Mumbai Indians,50005,17000000,No
+90600,TK Curran,Tom Curran,,1995-03-12,28,80004,2018,Male,Delhi Capitals,50008,52500000,Yes
+90601,TL Seifert,Tim Seifert,,1985-04-08,38,80011,2008,Male,Chennai Super Kings,50003,5000000,Yes
+90602,TL Suman,Tirumalasetti Suman,,1983-12-15,39,80006,2009,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90603,TM Dilshan,Tillakaratne Dilshan,,1976-10-14,46,80017,2008,Male,Royal Challengers Bangalore,50010,34625500,Yes
+90604,TM Head,Travis Head,,1993-12-29,29,80002,2015,Male,Royal Challengers Bangalore,50010,5000000,Yes
+90605,TM Srivastava,Tanmay Srivastava,,1989-11-07,33,80006,2008,Male,Deccan Chargers,50002,800000,Yes
+90606,TP Sudhindra,TP Sudhindra,,1984-04-24,38,80006,2012,Male,Deccan Chargers,50002,1000000,Yes
+90607,TR Birt,Travis Birt,,1981-12-09,41,80002,2011,Male,Delhi Capitals,50008,1005400,Yes
+90608,TS Mills,Tymal Mills,,1992-08-12,30,80004,2017,Male,Royal Challengers Bangalore,50010,15000000,No
+90609,TU Deshpande,Tushar Deshpande,,1995-05-15,27,80006,2020,Male,Chennai Super Kings,50003,2000000,No
+90610,U Kaul,Uday Kaul,,1987-12-02,35,80006,2008,Male,Mumbai Indians,50005,1200000,Yes
+90611,UA Birla,Udit Birla,,1989-11-17,33,80006,2013,Male,Pune Warriors India,50014,800000,Yes
+90612,UBT Chand,Unmukt Chand,,1993-03-26,30,80006,2011,Male,Mumbai Indians,50005,6500000,Yes
+90613,Umar Gul,Umar Gul,,1984-04-14,39,80013,2008,Male,Kolkata Knight Riders,50004,6024000,Yes
+90614,Umran Malik,Umran Malik,,1999-11-22,23,80006,2021,Male,Sunrisers Hyderabad,50006,40000000,No
+90615,UT Khawaja,Usman Khawaja,,1986-12-18,36,80002,2016,Male,Rising Pune Supergiants,50015,10000000,Yes
+90616,UT Yadav,Umesh Yadav,,1987-10-25,35,80006,2009,Male,Kolkata Knight Riders,50004,20000000,No
+90617,V Kohli,Virat Kohli,,1988-11-05,34,80006,2008,Male,Royal Challengers Bangalore,50010,150000000,No
+90618,V Pratap Singh,Veer Pratap Singh,,1992-05-03,30,80006,2012,Male,Delhi Capitals,50008,4000000,Yes
+90619,V Sehwag,Virender Sehwag,,1978-10-20,44,80006,2008,Male,Punjab Kings,50009,32000000,Yes
+90620,V Shankar,Vijay Shankar,,1991-01-26,32,80006,2013,Male,Gujarat Titans,50007,14000000,No
+90621,VG Arora,Vaibhav Arora,,1997-12-14,25,80006,2020,Male,Punjab Kings,50009,6000000,No
+90622,VH Zol,Vijay Zol,,1994-11-23,28,80006,2012,Male,Royal Challengers Bangalore,50010,3000000,Yes
+90623,Virat Singh,Virat Singh,,1997-12-08,25,80006,2020,Male,Sunrisers Hyderabad,50006,19000000,Yes
+90624,Vishnu Vinod,Vishnu Vinod,,1993-12-02,29,80006,2017,Male,Sunrisers Hyderabad,50006,20000000,No
+90625,VR Aaron,Varun Aaron,,1989-10-29,33,80006,2010,Male,Gujarat Titans,50007,5000000,No
+90626,VR Iyer,Venkatesh Iyer,,1994-12-25,28,80006,2021,Male,Kolkata Knight Riders,50004,80000000,No
+90627,VRV Singh,V. R. V. Singh,,1984-09-17,38,80006,2008,Male,Punjab Kings,50009,4000000,Yes
+90628,VS Malik,Vikramjeet Malik,,1983-05-09,39,80006,2009,Male,Gujarat Lions,50012,2000000,Yes
+90629,VS Yeligati,Vikrant Yeligati,,1985-04-23,37,80006,2008,Male,Mumbai Indians,50005,600000,Yes
+90630,VVS Laxman,V.V.S. Laxman,,1974-11-01,48,80006,2008,Male,Kochi Tuskers Kerala,50013,18400000,Yes
+90631,VY Mahesh,Yo Mahesh,,1987-12-21,35,80006,2008,Male,Sunrisers Hyderabad,50006,3000000,Yes
+90632,W Jaffer,Wasim Jaffer,,1978-02-16,45,80006,2008,Male,Royal Challengers Bangalore,50010,6000000,Yes
+90633,WA Mota,Wilkin Mota,,1981-09-20,41,80006,2008,Male,Punjab Kings,50009,1200000,Yes
+90634,Washington Sundar,Washington Sundar,,1998-11-26,24,80006,2017,Male,Sunrisers Hyderabad,50006,87500000,No
+90635,WD Parnell,Wayne Parnell,,1989-07-30,33,80016,2010,Male,Delhi Capitals,50008,10000000,Yes
+90636,WP Saha,Wriddhiman Saha,,1984-10-24,38,80006,2008,Male,Gujarat Titans,50007,19000000,Yes
+90637,WPUJC Vaas,Chaminda Vaas,,1974-01-27,49,80017,2008,Male,Deccan Chargers,50002,9258000,Yes
+90638,X Thalaivan Sargunam,Thalaivan Sargunam,,1985-05-15,37,80006,2013,Male,Sunrisers Hyderabad,50006,1000000,Yes
+90639,Y Gnaneswara Rao,Gnaneswara Rao,,1984-08-25,38,80006,2011,Male,Kochi Tuskers Kerala,50013,3000000,Yes
+90640,Y Nagar,Yogesh Nagar,,1990-01-06,33,80006,2008,Male,Delhi Capitals,50008,2000000,Yes
+90641,Y Prithvi Raj,Prithvi Raj,,1998-02-20,25,80006,2019,Male,Kolkata Knight Riders,50004,2000000,No
+90642,Y Venugopal Rao,Venugopal Rao,,1982-02-26,41,80006,2008,Male,Sunrisers Hyderabad,50006,5500000,Yes
+90643,YA Abdulla,Yusuf Abdulla,,1983-01-17,40,80016,2009,Male,Punjab Kings,50009,2314500,Yes
+90644,Yash Dayal,Yash Dayal,,1997-12-13,25,80006,2022,Male,Gujarat Titans,50007,32000000,No
+90645,Yashpal Singh,Yashpal Singh,,1981-11-27,41,80006,2008,Male,Kochi Tuskers Kerala,50013,3000000,Yes
+90646,YBK Jaiswal,Yashasvi Jaiswal,,2001-12-28,21,80006,2020,Male,Rajasthan Royals,50001,40000000,No
+90647,YK Pathan,Yusuf Pathan,,1982-11-17,40,80006,2008,Male,Sunrisers Hyderabad,50006,19000000,Yes
+90648,Younis Khan,Younis Khan,,1977-11-29,45,80013,2008,Male,Rajasthan Royals,50001,9036000,Yes
+90649,YS Chahal,Yuzvendra Chahal,,1990-07-23,32,80006,2011,Male,Rajasthan Royals,50001,65000000,No
+90650,Yuvraj Singh,Yuvraj Singh,,1981-12-12,41,80006,2008,Male,Mumbai Indians,50005,10000000,Yes
+90651,YV Takawale,Yogesh Takawale,,1984-11-05,38,80006,2008,Male,Royal Challengers Bangalore,50010,1000000,Yes
+90652,Z Khan,Zaheer Khan,,1998-12-20,24,80001,2018,Male,Rajasthan Royals,50001,6000000,Yes
+90653,Aamir Kaleem,Aamir Kaleem,,,,,,,,,,
+90654,Aaron Phangiso,Aaron Phangiso,,,,,,,,,,
+90655,Abdulahad Malek,Abdulahad Malek,,,,,,,,,,
+90656,Abhimanyu Easwaran,Abhimanyu Easwaran,,,,,,,,,,
+90657,Abhinav Kumar,Abhinav Kumar,,,,,,,,,,
+90658,Abhinav Sadarangani,Abhinav Sadarangani,,,,,,,,,,
+90659,Aditya Angle,Aditya Angle,,,,,,,,,,
+90660,Aditya Garhwal,Aditya Garhwal,,,,,,,,,,
+90661,Agnivesh Ayachi,Agnivesh Ayachi,,,,,,,,,,
+90662,Ahsan Malik,Ahsan Malik,,,,,,,,,,
+90663,Ajay Lalcheta,Ajay Lalcheta,,,,,,,,,,
+90664,Ajitesh Argal,Ajitesh Argal,,,,,,,,,,
+90665,Akash Bhandari,Akash Bhandari,,,,,,,,,,
+90666,Akash Madhwal,Akash Madhwal,,,,,,,,,,
+90667,Akhil Herwadkar,Akhil Herwadkar,,,,,,,,,,
+90668,Akshay Karnewar,Akshay Karnewar,,,,,,,,,,
+90669,Akshay Wakhare,Akshay Wakhare,,,,,,,,,,
+90670,Al Amin Hossain,Al Amin Hossain,,,,,,,,,,
+90671,Alasdair Evans,Alasdair Evans,,,,,,,,,,
+90672,Ali Khan,Ali Khan,,,,,,,,,,
+90673,Amanpreet Singh,Amanpreet Singh,,,,,,,,,,
+90674,Amir Ali,Amir Ali,,,,,,,,,,
+90675,Amir Hamza Hotak,Amir Hamza Hotak,,,,,,,,,,
+90676,Amit Singh,Amit Singh,,,,,,,,,,
+90677,Amit Yadav,Amit Yadav,,,,,,,,,,
+90678,Amitoze Singh,Amitoze Singh,,,,,,,,,,
+90679,Andre Fletcher,Andre Fletcher,,,,,,,,,,
+90680,Andrew McBrine,Andrew McBrine,,,,,,,,,,
+90681,Aneeshwar Gautam,Aneeshwar Gautam,,,,,,,,,,
+90682,Aniruddha Joshi,Aniruddha Joshi,,,,,,,,,,
+90683,Ankush Bains,Ankush Bains,,,,,,,,,,
+90684,Ansh Patel,Ansh Patel,,,,,,,,,,
+90685,Anshuman Rath,Anshuman Rath,,,,,,,,,,
+90686,Anunay Singh,Anunay Singh,,,,,,,,,,
+90687,Anup Revandkar,Anup Revandkar,,,,,,,,,,
+90688,Apoorv Wankhade,Apoorv Wankhade,,,,,,,,,,
+90689,Arisht Singhvi,Arisht Singhvi,,,,,,,,,,
+90690,Arjun Tendulkar,Arjun Tendulkar,,,,,,,,,,
+90691,Armaan Jaffer,Armaan Jaffer,,,,,,,,,,
+90692,Aryaman Birla,Aryaman Birla,,,,,,,,,,
+90693,Aryan Juyal,Aryan Juyal,,,,,,,,,,
+90694,Asela Gunaratne,Asela Gunaratne,,,,,,,,,,
+90695,Asghar Afghan,Asghar Afghan,,,,,,,,,,
+90696,Ashok Sharma,Ashok Sharma,,,,,,,,,,
+90697,Ashraf Makda,Ashraf Makda,,,,,,,,,,
+90698,Ashwell Prince,Ashwell Prince,,,,,,,,,,
+90699,Ashwin Hebbar,Ashwin Hebbar,,,,,,,,,,
+90700,Atharva Taide,Atharva Taide,,,,,,,,,,
+90701,Atul Sharma,Atul Sharma,,,,,,,,,,
+90702,Azhar Mehmood,Azhar Mehmood,,,,,,,,,,
+90703,Baba Aparajith,Baba Aparajith,,,,,,,,,,
+90704,Babar Hayat,Babar Hayat,,,,,,,,,,
+90705,Baltej Singh,Baltej Singh,,,,,,,,,,
+90706,Bandaru Ayyappa,Bandaru Ayyappa,,,,,,,,,,
+90707,Bavanaka Sandeep,Bavanaka Sandeep,,,,,,,,,,
+90708,Ben Cooper,Ben Cooper,,,,,,,,,,
+90709,Ben Dwarshuis,Ben Dwarshuis,,,,,,,,,,
+90710,Benny Howell,Benny Howell,,,,,,,,,,
+90711,Bilal Khan,Bilal Khan,,,,,,,,,,
+90712,BN Bharath,BN Bharath,,,,,,,,,,
+90713,Boyd Rankin,Boyd Rankin,,,,,,,,,,
+90714,Brendan Taylor,Brendan Taylor,,,,,,,,,,
+90715,Burt Cockley,Burt Cockley,,,,,,,,,,
+90716,Callum McLeod,Callum McLeod,,,,,,,,,,
+90717,Cameron Delport,Cameron Delport,,,,,,,,,,
+90718,Chaitanya Bishnoi,Chaitanya Bishnoi,,,,,,,,,,
+90719,Chama Milind,Chama Milind,,,,,,,,,,
+90720,Chamika Karunaratne,Chamika Karunaratne,,,,,,,,,,
+90721,Chezhian Harinishanth,Chezhian Harinishanth,,,,,,,,,,
+90722,Chirag Jani,Chirag Jani,,,,,,,,,,
+90723,Chirag Pathak,Chirag Pathak,,,,,,,,,,
+90724,Chirag Suri,Chirag Suri,,,,,,,,,,
+90725,Chris Barnwell,Chris Barnwell,,,,,,,,,,
+90726,Dawlat Zadran,Dawlat Zadran,,,,,,,,,,
+90727,Deepak Chougule,Deepak Chougule,,,,,,,,,,
+90728,Deepak Punia,Deepak Punia,,,,,,,,,,
+90729,Dheeraj Jadhav,Dheeraj Jadhav,,,,,,,,,,
+90730,Dhruv Jurel,Dhruv Jurel,,,,,,,,,,
+90731,Digvijay Deshmukh,Digvijay Deshmukh,,,,,,,,,,
+90732,Dinesh Chandimal,Dinesh Chandimal,,,,,,,,,,
+90733,Dominic Drakes,Dominic Drakes,,,,,,,,,,
+90734,Dominic Thornley,Dominic Thornley,,,,,,,,,,
+90735,Donald Tiripano,Donald Tiripano,,,,,,,,,,
+90736,Duan Jansen,Duan Jansen,,,,,,,,,,
+90737,Ed Joyce,Ed Joyce,,,,,,,,,,
+90738,Eklak Ahmid,Eklak Ahmid,,,,,,,,,,
+90739,Finn Allen,Finn Allen,,,,,,,,,,
+90740,G Periyasamy,G Periyasamy,,,,,,,,,,
+90741,Gajendra Singh,Gajendra Singh,,,,,,,,,,
+90742,Ganapathi Vignesh,Ganapathi Vignesh,,,,,,,,,,
+90743,Ganesh Gaikwad,Ganesh Gaikwad,,,,,,,,,,
+90744,Gaurav Dhiman,Gaurav Dhiman,,,,,,,,,,
+90745,George Dockrell,George Dockrell,,,,,,,,,,
+90746,Gerald Coetzee,Gerald Coetzee,,,,,,,,,,
+90747,Gulam Bodi,Gulam Bodi,,,,,,,,,,
+90748,Gulbadin Naib,Gulbadin Naib,,,,,,,,,,
+90749,Gurinder Singh,Gurinder Singh,,,,,,,,,,
+90750,Hamid Hassan,Hamid Hassan,,,,,,,,,,
+90751,Hamilton Masakadza,Hamilton Masakadza,,,,,,,,,,
+90752,Harishankar Reddy,Harishankar Reddy,,,,,,,,,,
+90753,Harshad Khadiwale,Harshad Khadiwale,,,,,,,,,,
+90754,Harvik Desai,Harvik Desai,,,,,,,,,,
+90755,Haseeb Amjad,Haseeb Amjad,,,,,,,,,,
+90756,Haseeb Hameed,Haseeb Hameed,,,,,,,,,,
+90757,Hemang Badani,Hemang Badani,,,,,,,,,,
+90758,Himmat Singh,Himmat Singh,,,,,,,,,,
+90759,HS Sharath,HS Sharath,,,,,,,,,,
+90760,Imtiaz Ahmed,Imtiaz Ahmed,,,,,,,,,,
+90761,Iresh Saxena,Iresh Saxena,,,,,,,,,,
+90762,Ishan Kishan,Ishan Kishan,,,,,,,,,,
+90763,Jamie Atkinson,Jamie Atkinson,,,,,,,,,,
+90764,Jatin Saxena,Jatin Saxena,,,,,,,,,,
+90765,Javed Khan,Javed Khan,,,,,,,,,,
+90766,Jayden Seales,Jayden Seales,,,,,,,,,,
+90767,Jaydev Shah,Jaydev Shah,,,,,,,,,,
+90768,Jefferey Vandersay,Jefferey Vandersay,,,,,,,,,,
+90769,Jitendra Patil,Jitendra Patil,,,,,,,,,,
+90770,Joel Paris,Joel Paris,,,,,,,,,,
+90771,Joginder Singh,Joginder Singh,,,,,,,,,,
+90772,Johnson Charles,Johnson Charles,,,,,,,,,,
+90773,Jonathan Vandiar,Jonathan Vandiar,,,,,,,,,,
+90774,Josh Davey,Josh Davey,,,,,,,,,,
+90775,Josh Inglis,Josh Inglis,,,,,,,,,,
+90776,Justin Langer,Justin Langer,,,,,,,,,,
+90777,K. Bhagath Varma,K. Bhagath Varma,,,,,,,,,,
+90778,Kanishk Seth,Kanishk Seth,,,,,,,,,,
+90779,Karim Sadiq,Karim Sadiq,,,,,,,,,,
+90780,Karn Kaushal,Karn Kaushal,,,,,,,,,,
+90781,KB Arun Karthik,KB Arun Karthik,,,,,,,,,,
+90782,Kedar Devdhar,Kedar Devdhar,,,,,,,,,,
+90783,Kevin O'Brien,Kevin O'Brien,,,,,,,,,,
+90784,Kinchit Shah,Kinchit Shah,,,,,,,,,,
+90785,Kishore Kamath,Kishore Kamath,,,,,,,,,,
+90786,KK Jiyas,KK Jiyas,,,,,,,,,,
+90787,Krishnan Shrijith,Krishnan Shrijith,,,,,,,,,,
+90788,Kshitiz Sharma,Kshitiz Sharma,,,,,,,,,,
+90789,Kuldeep Raval,Kuldeep Raval,,,,,,,,,,
+90790,Kuldip Yadav,Kuldip Yadav,,,,,,,,,,
+90791,Kumar Boresa,Kumar Boresa,,,,,,,,,,
+90792,Kuthethurshri Vasudevadas,Kuthethurshri Vasudevadas,,,,,,,,,,
+90793,Kyle Mayers,Kyle Mayers,,,,,,,,,,
+90794,Kyle Mills,Kyle Mills,,,,,,,,,,
+90795,Loots Bosman,Loots Bosman,,,,,,,,,,
+90796,Luvnith Sisodia,Luvnith Sisodia,,,,,,,,,,
+90797,M. D. Nidheesh,M. D. Nidheesh,,,,,,,,,,
+90798,Mahmudullah Riyad,Mahmudullah Riyad,,,,,,,,,,
+90799,Manan Sharma,Manan Sharma,,,,,,,,,,
+90800,Manimaran Siddharth,Manimaran Siddharth,,,,,,,,,,
+90801,Manjot Kalra,Manjot Kalra,,,,,,,,,,
+90802,Manzoor Dar,Manzoor Dar,,,,,,,,,,
+90803,Mark Chapman,Mark Chapman,,,,,,,,,,
+90804,Mark Watt,Mark Watt,,,,,,,,,,
+90805,Matt Machan,Matt Machan,,,,,,,,,,
+90806,Matthew Cross,Matthew Cross,,,,,,,,,,
+90807,Matthew Kelly,Matthew Kelly,,,,,,,,,,
+90808,Max O'Dowd,Max O'Dowd,,,,,,,,,,
+90809,Mayank Dagar,Mayank Dagar,,,,,,,,,,
+90810,Mayank Tehlan,Mayank Tehlan,,,,,,,,,,
+90811,Mayank Yadav,Mayank Yadav,,,,,,,,,,
+90812,Mehdi Hasan,Mehdi Hasan,,,,,,,,,,
+90813,Mehran Khan,Mehran Khan,,,,,,,,,,
+90814,Milind Kumar,Milind Kumar,,,,,,,,,,
+90815,Milind Tandon,Milind Tandon,,,,,,,,,,
+90816,Milinda Siriwardana,Milinda Siriwardana,,,,,,,,,,
+90817,Moeen Ali,Moeen Ali,,,,,,,,,,
+90818,Mohammad Shahzad,Mohammad Shahzad,,,,,,,,,,
+90819,Mohammed Arif,Mohammed Arif,,,,,,,,,,
+90820,Mohammed Arshad Khan,Mohammed Arshad Khan,,,,,,,,,,
+90821,Mohammed Azharuddeen,Mohammed Azharuddeen,,,,,,,,,,
+90822,Mudassar Bukhari,Mudassar Bukhari,,,,,,,,,,
+90823,Munis Ansari,Munis Ansari,,,,,,,,,,
+90824,Nadeem Ahmed,Nadeem Ahmed,,,,,,,,,,
+90825,Najibullah Zadran,Najibullah Zadran,,,,,,,,,,
+90826,Napoleon Einstein,Napoleon Einstein,,,,,,,,,,
+90827,Nathan Bracken,Nathan Bracken,,,,,,,,,,
+90828,Neravanda Aiyappa,Neravanda Aiyappa,,,,,,,,,,
+90829,Niall O'Brien,Niall O'Brien,,,,,,,,,,
+90830,Nikhil Naik,Nikhil Naik,,,,,,,,,,
+90831,Nitin Saini,Nitin Saini,,,,,,,,,,
+90832,Nizakat Khan,Nizakat Khan,,,,,,,,,,
+90833,Noor Ahmad,Noor Ahmad,,,,,,,,,,
+90834,Noor Ali Zadran,Noor Ali Zadran,,,,,,,,,,
+90835,Nuwan Pradeep,Nuwan Pradeep,,,,,,,,,,
+90836,Pankaj Dharmani,Pankaj Dharmani,,,,,,,,,,
+90837,Pankaj Jaiswal,Pankaj Jaiswal,,,,,,,,,,
+90838,Parag More,Parag More,,,,,,,,,,
+90839,Paul Van Meekeren,Paul Van Meekeren,,,,,,,,,,
+90840,Pavan Deshpande,Pavan Deshpande,,,,,,,,,,
+90841,Phillip Hughes,Phillip Hughes,,,,,,,,,,
+90842,Pieter Seelaar,Pieter Seelaar,,,,,,,,,,
+90843,Pratham Singh,Pratham Singh,,,,,,,,,,
+90844,Pratyush Singh,Pratyush Singh,,,,,,,,,,
+90845,Preston Mommsen,Preston Mommsen,,,,,,,,,,
+90846,Prince Balwant Rai Singh,Prince Balwant Rai Singh,,,,,,,,,,
+90847,Priyank Panchal,Priyank Panchal,,,,,,,,,,
+90848,Puneet Bisht,Puneet Bisht,,,,,,,,,,
+90849,Pushkaraj Chavan,Pushkaraj Chavan,,,,,,,,,,
+90850,R. Karthikeyan,R. Karthikeyan,,,,,,,,,,
+90851,Rahul Buddhi,Rahul Buddhi,,,,,,,,,,
+90852,Rajesh Bishnoi,Rajesh Bishnoi,,,,,,,,,,
+90853,Rajesh Pawar,Rajesh Pawar,,,,,,,,,,
+90854,Rajvardhan Hangargekar,Rajvardhan Hangargekar,,,,,,,,,,
+90855,Ramesh Kumar,Ramesh Kumar,,,,,,,,,,
+90856,Rangana Herath,Rangana Herath,,,,,,,,,,
+90857,Rangaraj Suthesh,Rangaraj Suthesh,,,,,,,,,,
+90858,Ravi Inder Singh,Ravi Inder Singh,,,,,,,,,,
+90859,Ravikant Shukla,Ravikant Shukla,,,,,,,,,,
+90860,Ravikumar Samarth,Ravikumar Samarth,,,,,,,,,,
+90861,Reece Topley,Reece Topley,,,,,,,,,,
+90862,Richie Berrington,Richie Berrington,,,,,,,,,,
+90863,Richmond Mutumbami,Richmond Mutumbami,,,,,,,,,,
+90864,RK Sabharwal,RK Sabharwal,,,,,,,,,,
+90865,Robbie Frylinck,Robbie Frylinck,,,,,,,,,,
+90866,Robin Bist,Robin Bist,,,,,,,,,,
+90867,Rohan Banerjee,Rohan Banerjee,,,,,,,,,,
+90868,Roosh Kalaria,Roosh Kalaria,,,,,,,,,,
+90869,Royston Dias,Royston Dias,,,,,,,,,,
+90870,S. Thiagarajan,S. Thiagarajan,,,,,,,,,,
+90871,Sabbir Rahman,Sabbir Rahman,,,,,,,,,,
+90872,Safyaan Sharif,Safyaan Sharif,,,,,,,,,,
+90873,Sagar Trivedi,Sagar Trivedi,,,,,,,,,,
+90874,Sahil Kukreja,Sahil Kukreja,,,,,,,,,,
+90875,Sakibul Gani,Sakibul Gani,,,,,,,,,,
+90876,Samad Fallah,Samad Fallah,,,,,,,,,,
+90877,Samiullah Shinwari,Samiullah Shinwari,,,,,,,,,,
+90878,Santosh Yadav,Santosh Yadav,,,,,,,,,,
+90879,Sarandeep Singh,Sarandeep Singh,,,,,,,,,,
+90880,Sarul Kanwar,Sarul Kanwar,,,,,,,,,,
+90881,Saurabh Bandekar,Saurabh Bandekar,,,,,,,,,,
+90882,Saurabh Dubey,Saurabh Dubey,,,,,,,,,,
+90883,Saurabh Kumar,Saurabh Kumar,,,,,,,,,,
+90884,Saurasish Lahiri,Saurasish Lahiri,,,,,,,,,,
+90885,Sayan Ghosh,Sayan Ghosh,,,,,,,,,,
+90886,Sayan Mondal,Sayan Mondal,,,,,,,,,,
+90887,Sean Williams,Sean Williams,,,,,,,,,,
+90888,Selvam Suresh Kumar,Selvam Suresh Kumar,,,,,,,,,,
+90889,Shams Mulani,Shams Mulani,,,,,,,,,,
+90890,Shapoor Zadran,Shapoor Zadran,,,,,,,,,,
+90891,Sharad Lumba,Sharad Lumba,,,,,,,,,,
+90892,Shashi Ranjan,Shashi Ranjan,,,,,,,,,,
+90893,Shelley Shaurya,Shelley Shaurya,,,,,,,,,,
+90894,Shishir Bhavane,Shishir Bhavane,,,,,,,,,,
+90895,Shrideep Mangela,Shrideep Mangela,,,,,,,,,,
+90896,Shubham Garhwal,Shubham Garhwal,,,,,,,,,,
+90897,Shubham Ranjane,Shubham Ranjane,,,,,,,,,,
+90898,Shubham Sharma,Shubham Sharma,,,,,,,,,,
+90899,Sikandar Raza,Sikandar Raza,,,,,,,,,,
+90900,Smit Patel,Smit Patel,,,,,,,,,,
+90901,Sneha Kishore,Sneha Kishore,,,,,,,,,,
+90902,Stephen Myburgh,Stephen Myburgh,,,,,,,,,,
+90903,Steve O'Keefe,Steve O'Keefe,,,,,,,,,,
+90904,Stuart Broad,Stuart Broad,,,,,,,,,,
+90905,Subhranshu Senapati,Subhranshu Senapati,,,,,,,,,,
+90906,Sujit Nayak,Sujit Nayak,,,,,,,,,,
+90907,Sultan Ahmed,Sultan Ahmed,,,,,,,,,,
+90908,Sumit Khatri,Sumit Khatri,,,,,,,,,,
+90909,Sushant Marathe,Sushant Marathe,,,,,,,,,,
+90910,Sushant Mishra,Sushant Mishra,,,,,,,,,,
+90911,Syed Quadri,Syed Quadri,,,,,,,,,,
+90912,Syed Shahabuddin,Syed Shahabuddin,,,,,,,,,,
+90913,Tajinder Singh,Tajinder Singh,,,,,,,,,,
+90914,Tamim Iqbal,Tamim Iqbal,,,,,,,,,,
+90915,Tanmay Agarwal,Tanmay Agarwal,,,,,,,,,,
+90916,Tanmay Mishra,Tanmay Mishra,,,,,,,,,,
+90917,Tanwir Afzal,Tanwir Afzal,,,,,,,,,,
+90918,Tejashwi Yadav,Tejashwi Yadav,,,,,,,,,,
+90919,Tekkami Atchuta Rao,Tekkami Atchuta Rao,,,,,,,,,,
+90920,Tendai Chatara,Tendai Chatara,,,,,,,,,,
+90921,Tim Murtagh,Tim Murtagh,,,,,,,,,,
+90922,Timm van der Gugten,Timm van der Gugten,,,,,,,,,,
+90923,Tinashe Panyangara,Tinashe Panyangara,,,,,,,,,,
+90924,Tinu Yohannan,Tinu Yohannan,,,,,,,,,,
+90925,Tom Cooper,Tom Cooper,,,,,,,,,,
+90926,Udit Patel,Udit Patel,,,,,,,,,,
+90927,Umang Sharma,Umang Sharma,,,,,,,,,,
+90928,Umar Nazir Mir,Umar Nazir Mir,,,,,,,,,,
+90929,Usman Ghani,Usman Ghani,,,,,,,,,,
+90930,Utkarsh Singh,Utkarsh Singh,,,,,,,,,,
+90931,Vaibhav Rawal,Vaibhav Rawal,,,,,,,,,,
+90932,Vicky Ostwal,Vicky Ostwal,,,,,,,,,,
+90933,Vikas Mishra,Vikas Mishra,,,,,,,,,,
+90934,Vikas Tokas,Vikas Tokas,,,,,,,,,,
+90935,Viraj Kadbe,Viraj Kadbe,,,,,,,,,,
+90936,Vivek Yadav,Vivek Yadav,,,,,,,,,,
+90937,Vusi Sibanda,Vusi Sibanda,,,,,,,,,,
+90938,Wesley Barresi,Wesley Barresi,,,,,,,,,,
+90939,William Porterfield,William Porterfield,,,,,,,,,,
+90940,Writtick Chatterjee,Writtick Chatterjee,,,,,,,,,,
+90941,Yalaka Venugopal Rao,Yalaka Venugopal Rao,,,,,,,,,,
+90942,Yash Dhull,Yash Dhull,,,,,,,,,,
+90943,Yash Thakur,Yash Thakur,,,,,,,,,,
+90944,Yogesh Golwalkar,Yogesh Golwalkar,,,,,,,,,,
+90945,Yudhvir Charak,Yudhvir Charak,,,,,,,,,,
+90946,Zafir Patel,Zafir Patel,,,,,,,,,,
+90947,Zahir Khan,Zahir Khan,,,,,,,,,,
+90948,Zeeshan Maqsood,Zeeshan Maqsood,,,,,,,,,,
+90949,B Aparajith,B Aparajith,,,,,,,,,,
+90950,AV Wankhade,AV Wankhade,,,,,,,,,,
+90951,T Mishra,T Mishra,,,,,,,,,,
+90952,KH Devdhar,KH Devdhar,,,,,,,,,,

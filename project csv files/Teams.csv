@@ -1,0 +1,16 @@
+TID,Team_name,Team_Abbreviation,Owner_Name,Owner_ID,No_of_seasons,Current_captain,Captain_ID,Current_coach,Coach_ID,Former_name
+50001,Rajasthan Royals,RR,Red Bird Capital Partners,60008,15,Sanju Samson,90582,Kumar Sangakara,40005,NA
+50002,Deccan Chargers,DC,Deccan Chronicle,60002,5,Adam Gilchrist,90035,Darren Lehmann,40011,NA
+50003,Chennai Super Kings,CSK,India Cements Limited,60004,13,Mahendra Singh Dhoni,90378,Stephen Fleming,40003,NA
+50004,Kolkata Knight Riders,KKR,Red Chillies Entertainment,60009,15,Shreyas Iyer,90572,Chandrakant Pandit,40009,NA
+50005,Mumbai Indians,MI,Reliance Industries,60010,15,Rohit Sharma,90471,Mahela Jayawardene,40001,NA
+50006,Sunrisers Hyderabad,SRH,Sun TV Network,60014,10,Kane Williamson,90298,Brian Lara,40010,NA
+50007,Gujarat Titans,GT,CVC Capital Partners,60001,1,Hardik Pandya,90211,Gary Kirsten,40004,NA
+50008,Delhi Capitals,DCL,GMR & JSW Group,60003,15,Rishabh Pant,90483,Ricky Ponting,40006,Delhi Daredevils
+50009,Punjab Kings,PK,Ness Wadia & Others,60007,15,Mayank Agarwal,90336,Darren Lehmann,40011,Kings XI Punjab
+50010,Royal Challengers Bangalore,RCB,United Spirits Limited,60015,15,Francois du Plessis,90182,Sanjay Bangar,40002,Royal Challengers Bengaluru
+50011,Lucknow Super Giants,LSG,RPSG Group,60011,1,KL Rahul,90288,Andy Flower,40007,NA
+50012,Gujarat Lions,GL,Intex Technologies,60005,2,Suresh Raina,90549,Sanjay Bangar,40002,NA
+50013,Kochi Tuskers Kerala,KTK,Kochi Cricket Pvt Ltd.,60006,1,Mahela Jayawardene,90168,Darren Lehmann,40011,NA
+50014,Pune Warriors India,PWI,Sahara Group,60013,3,Aaron Finch,90046,Geoff Marsh,40012,Pune Warriors
+50015,Rising Pune Supergiants,RPS,RPSG Group,60011,2,Mahendra Singh Dhoni,90378,Stephen Fleming,40003,Rising Pune Supergiant

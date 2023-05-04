@@ -1,0 +1,13 @@
+Variation_ID,Variation_Name,Varitaion_Type
+501,Fast,Seam
+502,Fast-Medium,Seam
+503,Medium,Seam
+504,Medium-Fast,Seam
+505,Medium_Slow,Seam
+506,Slow-Medium,Seam
+507,Slow,Seam
+508,Off Break,Spin
+509,Leg Break,Spin
+510,Leg Break Googly,Spin
+511,Slow Orthodox,Spin
+512,Slow Wrist Spin,Spin
