@@ -1,0 +1,856 @@
+CREATE TABLE IF NOT EXISTS Player_Role(
+    Role_ID INT PRIMARY KEY,
+    Role_Name VARCHAR(25)
+);
+
+
+CREATE TABLE IF NOT EXISTS Batting_Stance(
+    Stance_ID INT PRIMARY KEY,
+    Stance VARCHAR(20)
+);
+
+
+CREATE TABLE IF NOT EXISTS Batting_Order(
+    Bat_Order_ID INT PRIMARY KEY,
+    Bat_Order VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS Bowling_Hand(
+    Bowl_Hand_ID INT PRIMARY KEY,
+    Bowl_Hand VARCHAR(25)
+);
+
+
+CREATE TABLE IF NOT EXISTS Bowling_Variation(
+    Variation_ID INT PRIMARY KEY,
+    Variation_Name VARCHAR(50),
+    Varition_Type VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS Owners(
+    OID INT PRIMARY KEY,
+    Owner_name VARCHAR(50),
+    Networth VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS Cities(
+    CID INT PRIMARY KEY,
+    Cname VARCHAR(70)
+);
+
+
+CREATE TABLE IF NOT EXISTS Nations(
+    NID INT PRIMARY KEY,
+    Country_Name VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS Stadiums(
+    SID INT PRIMARY KEY,
+    Stadium_Name VARCHAR(100),
+    City_ID INT,
+    Capacity INT,
+    Country VARCHAR(50),
+    Nation_ID INT,
+    FOREIGN KEY City_ID REFERENCES Cities(CID),
+    FOREIGN KEY Nation_ID REFERENCES Nations(NID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Umpires(
+    UID INT PRIMARY KEY,
+    Name VARCHAR(50),
+    No_of_matches INT,
+    Gender VARCHAR(20),
+    Nation_ID INT,
+    FOREIGN KEY Nation_ID REFERENCES Nations(NID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Coaches(
+    Coach_ID INT PRIMARY KEY,
+    Coach_name VARCHAR(50),
+    Nation_ID INT,
+    FOREIGN KEY (Nation_ID) REFERENCES Nations(NID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Players(
+    PID INT PRIMARY KEY,
+    Name VARCHAR(50),
+    Full_Name VARCHAR(100),
+    Alias VARCHAR(100),
+    DOB DATE,
+    Age INT,
+    Nationality_ID INT,
+    Debut_year INT,
+    Gender VARCHAR(20),
+    Last_Known_team VARCHAR(100),
+    Last_Known_team_ID INT,
+    Last_Sold_Price INT,
+    Retire_status VARCHAR(50)
+);
+
+
+CREATE TABLE IF NOT EXISTS Current_Active_Players(
+    PID INT,
+    Player_Name VARCHAR(100),
+    Last_Update_Date DATE,
+    FOREIGN KEY (PID) REFERENCES Players(PID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Players_Desc(
+    PID INT,
+    Player_Name VARCHAR(100),
+    Player_Role VARCHAR(50),
+    Player_Role_ID INT,
+    Batting_Stance VARCHAR(30),
+    Batting_Stance_ID INT,
+    Batting_Order VARCHAR(50),
+    Batting_Order_ID INT,
+    Bowling_Hand VARCHAR(30),
+    Bowling_Hand_ID INT,
+    Bowling_Variation VARCHAR(50),
+    Bowling_Variation_ID INT,
+    FOREIGN KEY (PID) REFERENCES Players(PID),
+    FOREIGN KEY (Player_Role_ID) REFERENCES Player_Role(Role_ID),
+    FOREIGN KEY (Batting_Stance_ID) REFERENCES Batting_Stance(Stance_ID),
+    FOREIGN KEY (Batting_Order_ID) REFERENCES Batting_Order(Bat_Order_ID),
+    FOREIGN KEY (Bowling_Hand_ID) REFERENCES Bowling_Hand(Bowl_Hand_ID),
+    FOREIGN KEY (Bowling_Variation_ID) REFERENCES Bowling_Variation(Variation_ID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Teams(
+    TID INT PRIMARY KEY,
+    Team_name VARCHAR(100),
+    Team_Abbreviation VARCHAR(5),
+    Owner_Name VARCHAR(100),
+    Owner_ID INT,
+    No_of_seasons INT,
+    Current_captain VARCHAR(50),
+    Captain_ID INT,
+    Current_coach VARCHAR(50),
+    Coach_ID INT,
+    Former_name VARCHAR(100),
+    FOREIGN KEY (Owner_ID) REFERENCES Owners(OID),
+    FOREIGN KEY (Captain_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Coach_ID) REFERENCES Coaches(Coach_ID)
+);
+    
+
+CREATE TABLE IF NOT EXISTS Team_Stats(
+    TID INT,
+    Team_Name VARCHAR(100),
+    No_of_Seasons INT,
+    Matches_Won INT,
+    Win_Percentage DECIMAL(10,3),
+    No_of_Away_Matches INT,
+    No_of_Home_Matches INT,
+    No_of_Matches INT,
+    FOREIGN KEY (TID) REFERENCES Teams(TID)
+);
+
+CREATE TABLE IF NOT EXISTS Players_Stats(
+    PID INT,
+    Player_Name VARCHAR(50),
+    No_of_seasons_played INT,
+    Innings_played INT,
+    Balls_Faced INT,
+    Runs_Scored INT,
+    Batting_Average DECIMAL(10,3),
+    Batting_SR DECIMAL(10,3),
+    No_Half_Centuries INT,
+    No_Centuries INT,
+    NO_Ducks INT,
+    Highest_Score INT,
+    No_of_Fours INT,
+    No_of_Sixes INT,
+    Balls_Bowled INT, 
+    Runs_Given INT,
+    Wickets_taken INT,
+    Bowling_Average DECIMAL(10,3),
+    Bowling_Economy DECIMAL(10,3),
+    Bowling_SR DECIMAL(10,3),
+    No_3W_Haul INT,
+    No_5W_Haul INT,
+    No_Dissmisals INT,
+    no_not_outs INT,
+    Innings_bowled INT,
+    FOREIGN KEY (PID) REFERENCES Players(PID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Seasons(
+    SID INT PRIMARY KEY,
+    Year INT,
+    Winner VARCHAR(70),
+    Winner_ID INT,
+    Runners VARCHAR(70),
+    Runners_ID INT,
+    Third_Position VARCHAR(70),
+    Third_Position_ID INT,
+    Fourth_Position VARCHAR(70),
+    Fourth_Position_ID INT,
+    Fifth_Position VARCHAR(70),
+    Fifth_Position_ID INT,
+    Sixth_Position VARCHAR(70),
+    Sixth_Position_ID INT,
+    Seventh_Position VARCHAR(70),
+    Seventh_Position_ID INT,
+    Eighth_Position VARCHAR(70),
+    Eighth_Position_ID INT,
+    Nineth_Position VARCHAR(70),
+    Nineth_Position_ID INT,
+    Tenth_Position VARCHAR(70),
+    Tenth_Position_ID INT,
+    Start_date DATE,
+    End_date DATE,
+    MOS VARCHAR(50),
+    MOS_ID INT,
+    Orange_cap VARCHAR(50),
+    Orange_cap_ID INT,
+    Purple_cap VARCHAR(50),
+    Purple_cap_ID INT,
+    FOREIGN KEY (Winner_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Runners_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Third_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Fourth_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Fifth_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Sixth_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Seventh_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Eighth_Position_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Nineth_Position_ID) REFERENCES Teams(TID),           
+    FOREIGN KEY (Tenth_Position_ID) REFERENCES Teams(TID),  
+    FOREIGN KEY (MOS_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Orange_cap_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Purple_cap_ID) REFERENCES Players(PID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Matches(
+    Match_ID INT PRIMARY KEY,
+    Match_City VARCHAR(50),
+    Match_City_ID INT,
+    Match_Date DATE,
+    Season INT,
+    Season_ID INT,
+    MatchNumber VARCHAR(50),
+    Team1 VARCHAR(70),
+    Team1_ID INT,
+    Team2 VARCHAR(70),
+    Team2_ID INT,
+    Stadium_Name VARCHAR(100),
+    Stadium_ID INT,
+    TossWinner VARCHAR(70),
+    Toss_Winner_ID INT,
+    TossDecesion VARCHAR(50),
+    SuperOver VARCHAR(10),
+    WinningTeam VARCHAR(70),
+    Winner_Team_ID INT,
+    WonBy VARCHAR(50),
+    Margin INT,
+    DL_used VARCHAR(20),
+    MOM VARCHAR(70),
+    MOM_ID INT,
+    Umpire1 VARCHAR(70),
+    Ump1_ID INT,
+    Umpire2 VARCHAR(70),
+    Ump2_ID INT,
+    FOREIGN KEY (Match_City_ID) REFERENCES Cities(CID),
+    FOREIGN KEY (Season_ID) REFERENCES Seasons(SID),
+    FOREIGN KEY (Team1_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Team2_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Stadium_ID) REFERENCES Stadiums(SID),
+    FOREIGN KEY (Toss_Winner_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Winner_Team_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (MOM_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Ump1_ID) REFERENCES Umpires(UID),
+    FOREIGN KEY (Ump2_ID) REFERENCES Umpires(UID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Ball_By_Ball(
+    Match_ID INT,
+    innings INT,
+    over_number INT,
+    ballnumber INT,
+    Batsmen VARCHAR(70),
+    Batsmen_ID INT,
+    Bowler VARCHAR(70),
+    Bowler_ID INT,
+    non_striker VARCHAR(70),
+    Non_striker_ID INT,
+    extra_type VARCHAR(50),
+    batsman_run INT,    
+    extras_run INT,
+    total_run INT,
+    non_boundary INT,
+    isWicketDelivery INT,   
+    player_out VARCHAR(20),
+    kind VARCHAR(20),
+    fielders_involved VARCHAR(20),
+    fielder_ID INT,
+    Batting_Team VARCHAR(50),
+    Batting_Team_ID INT,
+    Bowling_Team VARCHAR(50),
+    Bowling_Team_ID INT,    
+    FOREIGN KEY (Match_ID) REFERENCES Matches(Match_ID),
+    FOREIGN KEY (Batsmen_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Bowler_ID) REFERENCES Players(PID),
+    FOREIGN KEY (Non_striker_ID) REFERENCES Players(PID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Players_Team_History(
+    Player VARCHAR(70),
+    PID INT,
+    Nationality INT,
+    S2008 INT,
+    S2009 INT,
+    S2010 INT,
+    S2011 INT,
+    S2012 INT,
+    S2013 INT,
+    S2014 INT,
+    S2015 INT,
+    S2016 INT,
+    S2017 INT,
+    S2018 INT,
+    S2019 INT,
+    S2020 INT,
+    S2021 INT,
+    S2022 INT,
+    FOREIGN KEY (PID) REFERENCES Players(PID),
+    FOREIGN KEY (Nationality) REFERENCES Nations(NID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Playing_Eleven(
+    Match_ID INT,
+    T1P1    VARCHAR(50),
+    T1P2    VARCHAR(50),
+    T1P3    VARCHAR(50),
+    T1P4    VARCHAR(50),
+    T1P5    VARCHAR(50),
+    T1P6    VARCHAR(50),
+    T1P7    VARCHAR(50),
+    T1P8    VARCHAR(50),
+    T1P9    VARCHAR(50),
+    T1P10   VARCHAR(50),
+    T1P11   VARCHAR(50),
+    T2P1    VARCHAR(50),
+    T2P2    VARCHAR(50),
+    T2P3    VARCHAR(50),
+    T2P4    VARCHAR(50),
+    T2P5    VARCHAR(50),
+    T2P6    VARCHAR(50),
+    T2P7    VARCHAR(50),
+    T2P8    VARCHAR(50),
+    T2P9    VARCHAR(50),
+    T2P10   VARCHAR(50),
+    T2P11   VARCHAR(50),
+    T1P1_ID INT,
+    T1P2_ID INT,
+    T1P3_ID INT,
+    T1P4_ID INT,
+    T1P5_ID INT,
+    T1P6_ID INT,
+    T1P7_ID INT,
+    T1P8_ID INT,
+    T1P9_ID INT,
+    T1P10_ID INT,
+    T1P11_ID INT,
+    T2P1_ID INT,
+    T2P2_ID INT,
+    T2P3_ID INT,
+    T2P4_ID INT,
+    T2P5_ID INT,
+    T2P6_ID INT,
+    T2P7_ID INT,
+    T2P8_ID INT,
+    T2P9_ID INT,
+    T2P10_ID INT,
+    T2P11_ID INT,
+    FOREIGN KEY (Match_ID) REFERENCES Matches(Match_ID)
+);
+
+
+CREATE TABLE IF NOT EXISTS Seasons_teams
+(
+    Season_ID INT ,
+    Year INT,
+    Team_ID INT,
+    Position INT,
+    FOREIGN KEY(Team_ID) REFERENCES Teams(TID),
+    FOREIGN KEY (Season_ID) REFERENCES Seasons(SID)
+);
+
+------------------------------------------------------------------------------------------------------
+
+>> Runs Scored by Every Batsmen
+
+SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run)
+FROM ball_by_ball bbb
+GROUP BY Batsmen_ID order by Batsmen_ID;
+
+>> Update the Total Runs of all Players
+SET SQL_SAFE_UPDATES = 0;
+
+
+UPDATE Players_Stats ps
+SET    ps.runs_scored  = (SELECT SUM(bbb.batsman_run)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Batsmen_ID = ps.PID);
+
+>> Update The Total Seasons of all Players
+
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE Players_Stats ps
+SET ps.No_of_Seasons_Played=(
+        SELECT   SUM(CASE WHEN pth.S2008>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2009>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2010>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2011>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2012>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2013>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2014>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2015>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2016>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2017>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2018>0 THEN 1 ELSE 0 END +
+                 CASE WHEN pth.S2019>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2020>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2021>0 THEN 1 ELSE 0 END + 
+                 CASE WHEN pth.S2022>0 THEN 1 ELSE 0 END) AS No_of_Seasons
+        FROM   players_team_history pth
+        WHERE pth.PID=ps.PID);
+
+>> Update Balls Faced by each Batsmen
+
+UPDATE Players_Stats ps
+SET    ps.balls_faced  = (SELECT count(bbb.batsman_run)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Batsmen_ID = ps.PID AND bbb.extra_type<>'wides' AND bbb.extra_type<>'noballs');
+
+>> Update No of innings by each batsmen
+
+UPDATE Players_Stats ps
+SET    ps.Innings_played = (SELECT COUNT(distinct bbb.Match_ID,bbb.Batsmen_ID) FROM ball_by_ball bbb WHERE  bbb.Batsmen_ID = ps.PID);
+
+>> Update No of times a batsmen is dissmied
+
+UPDATE Players_Stats ps
+SET    ps.No_Dissmisals  = (SELECT COUNT(player_out) FROM ball_by_ball bbb WHERE (bbb.Batsmen_ID = ps.PID AND bbb.Batsmen=bbb.player_out AND bbb.innings<=2));
+
+>> Update No_of_Not_Outs
+
+UPDATE Players_Stats ps
+SET    ps.No_Not_Outs  = ps.Innings_played-ps.No_Dissmisals;
+
+>> Update Batting_Average
+
+UPDATE Players_Stats ps
+SET  ps.Batting_Average= CASE
+  WHEN ps.No_Dissmisals>0 THEN CAST(ps.Runs_Scored AS DECIMAL)/CAST(ps.No_Dissmisals AS DECIMAL)
+  ELSE ps.Runs_Scored
+END
+
+>> Update Battting_Strike-Rate
+
+UPDATE Players_Stats ps
+SET  ps.Batting_SR= CASE
+  WHEN ps.Balls_Faced>0 THEN (CAST(ps.Runs_Scored AS DECIMAL)/CAST(ps.Balls_Faced AS DECIMAL))*100
+  ELSE 0
+END
+
+>> Update No_Half_Centuries
+
+UPDATE Players_Stats ps
+SET    ps.No_Half_Centuries  = (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                          FROM ball_by_ball bbb
+                          GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                           HAVING Runs_Scored>=50) AS TEMP
+                           WHERE  Batsmen_ID = ps.PID);
+
+>> Update No_Centuries
+
+UPDATE Players_Stats ps
+SET    ps.No_Centuries  = (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                          FROM ball_by_ball bbb
+                          GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                           HAVING Runs_Scored>=100) AS TEMP
+                           WHERE  Batsmen_ID = ps.PID);
+
+>> Update No_Ducks
+UPDATE Players_Stats ps
+SET    ps.No_Ducks =       (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                          FROM ball_by_ball bbb
+                          GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                           HAVING Runs_Scored=0) AS TEMP
+                           WHERE  Batsmen_ID = ps.PID);
+
+
+>> Update Highest Score
+
+UPDATE Players_Stats ps
+SET    ps.Highest_Score  = (SELECT MAX(Batsmen_innings_runs) FROM(
+SELECT Batsmen_ID,SUM(batsman_run) AS Batsmen_innings_runs FROM ball_by_ball bbb
+group by Match_ID,Batsmen_ID
+) AS  TEMP 
+ where batsmen_id=ps.pid
+GROUP BY Batsmen_ID
+)
+
+>> Update No_of_Fours
+
+UPDATE Players_Stats ps
+SET    ps.No_of_Fours  = (SELECT count(bbb.batsman_run)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Batsmen_ID = ps.PID AND bbb.batsman_run=4 AND bbb.non_boundary<>1);
+
+
+>> Update No_of_Sixes
+
+UPDATE Players_Stats ps
+SET    ps.No_of_Sixes  = (SELECT count(bbb.batsman_run)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Batsmen_ID = ps.PID AND bbb.batsman_run=6 AND bbb.non_boundary<>1);
+
+>> Update Innings_Bowled for each player
+
+UPDATE Players_Stats ps
+SET    ps.Innings_bowled = (SELECT COUNT(distinct bbb.Match_ID,bbb.Bowler_ID) FROM ball_by_ball bbb WHERE  bbb.Bowler_ID = ps.PID);
+
+>> Update Ball_Bowled by every Player
+
+UPDATE Players_Stats ps
+SET    ps.balls_bowled  = (SELECT count(bbb.Bowler_ID)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Bowler_ID = ps.PID AND bbb.extra_type<>'wides' AND bbb.extra_type<>'noballs');
+
+
+>> Update Runs_Given by every player
+
+UPDATE Players_Stats ps
+SET    ps.runs_given  = (SELECT SUM(bbb.total_run)
+                         FROM   ball_by_ball bbb
+                         WHERE  bbb.Bowler_ID = ps.PID);
+
+>> Update wickets_taken by each player
+
+UPDATE Players_Stats ps
+SET    ps.wickets_taken  = (
+SELECT COUNT(player_out) FROM ball_by_ball bbb WHERE (bbb.Bowler_ID = ps.PID AND (bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw') AND bbb.innings<=2));
+
+>> Update Bowling Average for each player
+
+UPDATE Players_Stats ps
+SET  ps.Bowling_Average= CASE
+  WHEN ps.Wickets_Taken>0 THEN CAST(ps.Runs_Given AS DECIMAL)/CAST(ps.Wickets_taken AS DECIMAL)
+  ELSE ps.Runs_Given
+END
+
+>> Update Bowling_Strike_Rate for each player
+
+UPDATE Players_Stats ps
+SET  ps.Bowling_SR= CASE
+  WHEN ps.Wickets_Taken>0 THEN CAST(ps.Balls_Bowled AS DECIMAL)/CAST(ps.Wickets_taken AS DECIMAL)
+  ELSE ps.balls_bowled
+END
+
+>> Update Bowling_Economy for each player
+
+UPDATE Players_Stats ps
+SET  ps.Bowling_Economy= CASE
+  WHEN ps.Balls_Bowled>0 THEN CAST(ps.Runs_Given AS DECIMAL)*6/CAST(ps.Balls_Bowled AS DECIMAL)
+  ELSE ps.Runs_Given
+END
+
+>>Update No_Of_3W hauls
+
+UPDATE Players_Stats ps
+SET    ps.No_3W_Haul  = (SELECT COUNT(Bowler_ID) FROM (SELECT bbb.Bowler_ID ,sum(bbb.isWicketDelivery) AS Wickets_Taken
+                          FROM ball_by_ball bbb
+                          WHERE bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw'
+                           GROUP BY bbb.Bowler_ID,bbb.Match_ID
+                           HAVING Wickets_Taken>=3 AND Wickets_Taken<5) AS TEMP
+                           WHERE  Bowler_ID = ps.PID);
+
+>>Update No_Of_5W hauls
+
+UPDATE Players_Stats ps
+SET    ps.No_5W_Haul  = (SELECT COUNT(Bowler_ID) FROM (SELECT bbb.Bowler_ID ,sum(bbb.isWicketDelivery) AS Wickets_Taken
+                          FROM ball_by_ball bbb
+                          WHERE bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw'
+                           GROUP BY bbb.Bowler_ID,bbb.Match_ID
+                           HAVING Wickets_Taken>=5) AS TEMP
+                           WHERE  Bowler_ID = ps.PID);
+
+
+>>Update No_of_Season for all teams
+
+UPDATE team_stats ts
+SET    ts.No_of_Seasons = (SELECT COUNT(distinct Season_ID,Team_ID)
+                         FROM   seasons_teams st
+                         WHERE  st.team_ID = ts.TID);
+
+
+
+>>Update No_of_Home_Matches for all teams
+
+UPDATE team_stats ts
+SET    ts.No_Of_Home_Matches = (SELECT COUNT(Team1_ID)
+                         FROM   matches m
+                         WHERE  m.Team1_ID = ts.TID);
+
+
+>>Update No_of_Away_Matches for all teams
+
+UPDATE team_stats ts
+SET    ts.No_Of_Away_Matches = (SELECT COUNT(Team2_ID)
+                         FROM   matches m
+                         WHERE  m.Team2_ID = ts.TID);
+
+>>Update No_of_Matches            
+
+UPDATE team_stats ts
+SET    ts.No_Of_Matches = ts.No_of_Home_Matches+No_of_Away_Matches
+
+>> Update Matches Won
+
+UPDATE team_stats ts
+SET    ts.Matches_Won = (SELECT COUNT(m.Winner_Team_ID)
+                         FROM   matches m
+                         WHERE  m.Winner_Team_ID=ts.TID);
+
+>> Update Win_Percentage
+
+UPDATE team_stats ts
+SET ts.win_percentage= CASE
+WHEN ts.no_of_matches>0 THEn ts.matches_won*100/ts.No_Of_Matches
+ELSE 0
+END
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>>Stored Procedure to update the team_stats table
+
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `update_team_stats`()
+BEGIN
+
+        SET SQL_SAFE_UPDATES = 0;
+        UPDATE team_stats ts
+        SET    ts.No_of_Seasons = (SELECT COUNT(distinct Season_ID,Team_ID)
+                                   FROM   seasons_teams st
+                                   WHERE  st.team_ID = ts.TID);
+       UPDATE team_stats ts
+       SET    ts.No_Of_Home_Matches = (SELECT COUNT(Team1_ID)
+                                     FROM   matches m
+                                     WHERE  m.Team1_ID = ts.TID);
+
+       UPDATE team_stats ts
+       SET    ts.No_Of_Away_Matches = (SELECT COUNT(Team2_ID)
+                         FROM   matches m
+                         WHERE  m.Team2_ID = ts.TID);
+           
+
+        UPDATE team_stats ts
+        SET    ts.No_Of_Matches = ts.No_of_Home_Matches+No_of_Away_Matches;
+
+
+        UPDATE team_stats ts
+        SET    ts.Matches_Won = (SELECT COUNT(m.Winner_Team_ID)
+                                 FROM   matches m
+                                 WHERE  m.Winner_Team_ID=ts.TID);
+
+
+        UPDATE team_stats ts
+        SET ts.win_percentage= CASE
+        WHEN ts.no_of_matches>0 THEN ts.matches_won*100/ts.No_Of_Matches
+        ELSE 0
+        END;
+END
+
+
+>>Stored Procedure to update the players_stats tabel
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `update_player_stats`()
+BEGIN
+        SET SQL_SAFE_UPDATES = 0;
+
+        UPDATE Players_Stats ps
+        SET    ps.runs_scored  = (SELECT SUM(bbb.batsman_run)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Batsmen_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET ps.No_of_Seasons_Played=(
+                SELECT   SUM(CASE WHEN pth.S2008>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2009>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2010>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2011>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2012>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2013>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2014>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2015>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2016>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2017>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2018>0 THEN 1 ELSE 0 END +
+                         CASE WHEN pth.S2019>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2020>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2021>0 THEN 1 ELSE 0 END + 
+                         CASE WHEN pth.S2022>0 THEN 1 ELSE 0 END) AS No_of_Seasons
+                FROM   players_team_history pth
+                WHERE pth.PID=ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.balls_faced  = (SELECT count(bbb.batsman_run)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Batsmen_ID = ps.PID AND bbb.extra_type<>'wides' AND bbb.extra_type<>'noballs');
+
+        UPDATE Players_Stats ps
+        SET    ps.Innings_played = (SELECT COUNT(distinct bbb.Match_ID,bbb.Batsmen_ID) FROM ball_by_ball bbb WHERE  bbb.Batsmen_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_Dissmisals  = (SELECT COUNT(player_out) FROM ball_by_ball bbb WHERE (bbb.Batsmen_ID = ps.PID AND bbb.Batsmen=bbb.player_out AND bbb.innings<=2));
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_Not_Outs  = ps.Innings_played-ps.No_Dissmisals;
+
+
+        UPDATE Players_Stats ps
+        SET  ps.Batting_Average= CASE
+          WHEN ps.No_Dissmisals>0 THEN CAST(ps.Runs_Scored AS DECIMAL)/CAST(ps.No_Dissmisals AS DECIMAL)
+          ELSE ps.Runs_Scored
+        END;
+
+        UPDATE Players_Stats ps
+        SET  ps.Batting_SR= CASE
+          WHEN ps.Balls_Faced>0 THEN (CAST(ps.Runs_Scored AS DECIMAL)/CAST(ps.Balls_Faced AS DECIMAL))*100
+          ELSE 0
+        END;
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_Half_Centuries  = (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                                  FROM ball_by_ball bbb
+                                  GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                                   HAVING Runs_Scored>=50) AS TEMP
+                                   WHERE  Batsmen_ID = ps.PID);
+
+        UPDATE Players_Stats ps
+        SET    ps.No_Centuries  = (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                                  FROM ball_by_ball bbb
+                                  GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                                   HAVING Runs_Scored>=100) AS TEMP
+                                   WHERE  Batsmen_ID = ps.PID);
+
+        UPDATE Players_Stats ps
+        SET    ps.No_Ducks =       (SELECT COUNT(Batsmen_ID) FROM (SELECT bbb.Batsmen_ID ,sum(bbb.batsman_run) AS Runs_Scored
+                                  FROM ball_by_ball bbb
+                                  GROUP BY bbb.Batsmen_ID,bbb.Match_ID
+                                   HAVING Runs_Scored=0) AS TEMP
+                                   WHERE  Batsmen_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.Highest_Score  = (SELECT MAX(Batsmen_innings_runs) FROM(
+        SELECT Batsmen_ID,SUM(batsman_run) AS Batsmen_innings_runs FROM ball_by_ball bbb
+        group by Match_ID,Batsmen_ID
+        ) AS  TEMP 
+         where batsmen_id=ps.pid
+        GROUP BY Batsmen_ID
+        );
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_of_Fours  = (SELECT count(bbb.batsman_run)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Batsmen_ID = ps.PID AND bbb.batsman_run=4 AND bbb.non_boundary<>1);
+
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_of_Sixes  = (SELECT count(bbb.batsman_run)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Batsmen_ID = ps.PID AND bbb.batsman_run=6 AND bbb.non_boundary<>1);
+
+        UPDATE Players_Stats ps
+        SET    ps.Innings_bowled = (SELECT COUNT(distinct bbb.Match_ID,bbb.Bowler_ID) FROM ball_by_ball bbb WHERE  bbb.Bowler_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.balls_bowled  = (SELECT count(bbb.Bowler_ID)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Bowler_ID = ps.PID AND bbb.extra_type<>'wides' AND bbb.extra_type<>'noballs');
+
+
+        UPDATE Players_Stats ps
+        SET    ps.runs_given  = (SELECT SUM(bbb.total_run)
+                                 FROM   ball_by_ball bbb
+                                 WHERE  bbb.Bowler_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.wickets_taken  = (
+        SELECT COUNT(player_out) FROM ball_by_ball bbb WHERE (bbb.Bowler_ID = ps.PID AND (bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw') AND bbb.innings<=2));
+
+
+        UPDATE Players_Stats ps
+        SET  ps.Bowling_Average= CASE
+          WHEN ps.Wickets_Taken>0 THEN CAST(ps.Runs_Given AS DECIMAL)/CAST(ps.Wickets_taken AS DECIMAL)
+          ELSE ps.Runs_Given
+        END;
+
+
+        UPDATE Players_Stats ps
+        SET  ps.Bowling_SR= CASE
+          WHEN ps.Wickets_Taken>0 THEN CAST(ps.Balls_Bowled AS DECIMAL)/CAST(ps.Wickets_taken AS DECIMAL)
+          ELSE ps.balls_bowled
+        END;
+
+
+        UPDATE Players_Stats ps
+        SET  ps.Bowling_Economy= CASE
+          WHEN ps.Balls_Bowled>0 THEN CAST(ps.Runs_Given AS DECIMAL)*6/CAST(ps.Balls_Bowled AS DECIMAL)
+          ELSE ps.Runs_Given
+        END;
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_3W_Haul  = (SELECT COUNT(Bowler_ID) FROM (SELECT bbb.Bowler_ID ,sum(bbb.isWicketDelivery) AS Wickets_Taken
+                                  FROM ball_by_ball bbb
+                                  WHERE bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw'
+                                   GROUP BY bbb.Bowler_ID,bbb.Match_ID
+                                   HAVING Wickets_Taken>=3 AND Wickets_Taken<5) AS TEMP
+                                   WHERE  Bowler_ID = ps.PID);
+
+
+        UPDATE Players_Stats ps
+        SET    ps.No_5W_Haul  = (SELECT COUNT(Bowler_ID) FROM (SELECT bbb.Bowler_ID ,sum(bbb.isWicketDelivery) AS Wickets_Taken
+                                  FROM ball_by_ball bbb
+                                  WHERE bbb.kind='caught' OR bbb.kind='caught and bowled' OR bbb.kind='bowled' OR bbb.kind='stumped'OR bbb.kind='hit wicket'OR bbb.kind='lbw'
+                                   GROUP BY bbb.Bowler_ID,bbb.Match_ID
+                                   HAVING Wickets_Taken>=5) AS TEMP
+                                   WHERE  Bowler_ID = ps.PID);
+
+END
+
+>> Master Stored Procedure
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `Master_Update`()
+BEGIN
+  CALL `ipl_database`.`update_player_stats`();
+  CALL `ipl_database`.`update_team_stats`();
+END

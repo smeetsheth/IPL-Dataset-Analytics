@@ -1,0 +1,653 @@
+PID,Player_Name,Player_Role,Player_Role_ID,Batting_stance,Batting_Stance_ID,Batting_Order,Batting_Order_ID,Bowling_Hand,Bowling_Hand_ID,Bowling_Variation,Bowling_Variation_ID
+90001,Ashish Reddy,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90002,Ayush Badoni,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90003,Ajit Chandila,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90004,Aakash Chopra,Batsmen,101,Right,201,Top Order,302,Right,402,Slow,507
+90005,Aniket Choudhary,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90006,Akila Dananjaya,All Rounder,103,Left,202,Finisher,304,Right,402,Off Break,508
+90007,Andrew Flintoff,All Rounder,103,Right,201,Finisher,304,Right,402,Fast,501
+90008,Anil Kumble,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90009,Abhinav Manohar,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90010,Amit Mishra,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90011,Abhimanyu Mithun,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90012,Abhinav Mukund,Batsmen,101,Left,202,Top Order,302,Right,402,Leg Break,509
+90013,Ashish Nehra,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90014,André Nel,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90015,Anrich Nortje,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90016,Anureet Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90017,Andrew Symonds,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90018,Avijeet Tomar,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90019,Amit Uniyal,All Rounder,103,Left,202,Finisher,304,Left,401,Medium,503
+90020,Adam Zampa,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90021,Azhar Bilakhia,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90022,Ankeet Chavan,Batsmen,101,Left,202,Middle Order,303,Right,402,Slow Orthodox,511
+90023,Abhishek Jhunjhunwala,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90024,Abrar Kazi,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90025,Ashley Noffke,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90026,Ajit Agarkar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90027,Adrian Barath,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90028,AB de Villiers,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90029,Ashok Dinda,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90030,Andrew McDonald,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90031,Abdul Samad,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90032,Abdur Razzak,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90033,Abhishek Sharma,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90034,Aiden Blizzard,Batsmen,101,Left,202,Top Order,302,Left,401,Medium,503
+90035,Adam Gilchrist,WK-Batsmen,104,Left,202,Opener,301,Right,402,Off Break,508
+90036,Alfonso Thomas,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90037,Adam Voges,Batsmen,101,Right,201,Top Order,302,Left,401,Slow Orthodox,511
+90038,Alex Hales,Batsmen,101,Right,201,Opener,301,Right,402,Medium,503
+90039,Dimitri Mascarenhas,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90040,Angelo Mathews,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90041,Akshdeep Nath,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90042,Andre Russell,All Rounder,103,Right,201,Finisher,304,Right,402,Fast,501
+90043,Adam Milne,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90044,Ali Murtaza,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90045,Amit Paunikar,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90046,Aaron Finch,Batsmen,101,Right,201,Opener,301,Left,401,Slow Orthodox,511
+90047,Ashton Turner,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90048,Andrew Tye,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90049,Aiden Markram,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90050,Akash Deep,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90051,Akash Singh,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90052,Ashok Menaria,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90053,Abhishek Nayar,All Rounder,103,Left,202,Finisher,304,Right,402,Medium,503
+90054,Ajinkya Rahane,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90055,Aavishkar Salvi,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90056,Aman Hakim Khan,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90057,Abu Nechim Ahmed,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90058,Arindam Ghosh,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90059,Anand Rajan,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90060,Anirudh Singh,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90061,Ankit Sharma,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90062,Ankit Soni,All Rounder,103,Right,201,Finisher,304,Right,402,Leg Break,509
+90063,Anmolpreet Singh,Batsmen,101,Right,201,Tailender,305,Right,402,Off Break,508
+90064,Anuj Rawat,Batsmen,101,Left,202,Middle Order,303,Left,401,Slow,507
+90065,Anureet Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90066,Aditya Dole,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90067,Anustup Majumdar,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90068,Aditya Tare,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90069,Ankit Bawne,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90070,Axar Patel,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90071,Arshdeep Singh,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90072,Alzarri Joseph,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90073,Ankit Rajpoot,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90074,Abhishek Raut,All Rounder,103,Right,201,Finisher,304,Right,402,Leg Break,509
+90075,Anukul Roy,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90076,Arjun Yadav,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90077,Alex Carey,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Leg Break,509
+90078,Ambati Rayudu,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90079,Adil Rashid,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90080,Asad Pathan,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90081,Avesh Khan,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90082,Azhar Mahmood,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90083,Balachandra Akhil,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90084,Bharat Chipli,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90085,Brett Geeves,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90086,Baba Indrajith,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90087,Bhuvneshwar Kumar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90088,Ben Laughlin,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90089,Brett Lee,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90090,B Sai Sudharshan,Batsmen,101,Left,202,Middle Order,303,Right,402,Leg Break,509
+90091,Billy Stanlake,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90092,Bodapati Sumanth,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90093,Bhargav Bhatt,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90094,Ben Stokes,All Rounder,103,Left,202,Finisher,304,Right,402,Medium,503
+90095,Basil Thampi,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90096,Ajantha Mendis,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90097,Brendon McCullum,WK-Batsmen,104,Right,201,Opener,301,Right,402,Medium,503
+90098,Biplab Samantray,Batsmen,101,Right,201,Middle Order,303,Right,402,Slow,507
+90099,Barinder Sran,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90100,Ben Cutting,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90101,Beuran Hendricks,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90102,Bipul Sharma,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90103,Brad Haddin,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Slow,507
+90104,Brad Hodge,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90105,Ben Rohrer,Batsmen,101,Left,202,Middle Order,303,Left,401,Slow,507
+90106,Jeevan Mendis,All Rounder,103,Left,202,Finisher,304,Right,402,Leg Break,509
+90107,Ben Dunk,WK-Batsmen,104,Left,202,Top Order,302,Left,401,Slow,507
+90108,Ben Hilfenhaus,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90109,Colin de Grandhomme,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90110,Chandrasekar Ganapathy,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90111,Chandan Madan,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90112,Colin Munro,Bowler,102,Left,202,Tailender,305,Right,402,Medium,503
+90113,Chentanya Nanda,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90114,Chetan Sakariya,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90115,Colin Ingram,Batsmen,101,Left,202,Top Order,302,Left,401,Slow,507
+90116,Chris Lynn,Batsmen,101,Right,201,Top Order,302,Left,401,Slow Orthodox,511
+90117,Cheteshwar Pujara,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90118,Chris Gayle,All Rounder,103,Left,202,Opener,301,Right,402,Off Break,508
+90119,Chris Morris,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90120,Corey Anderson,All Rounder,103,Left,202,Finisher,304,Left,401,Medium,503
+90121,Junior Dala,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90122,Callum Ferguson,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90123,Chris Green,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90124,Chris Jordan,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90125,Clint McKay,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90126,Chamara Kapugedera,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90127,Charl Langeveldt,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90128,Cameron White,All Rounder,103,Right,201,Middle Order,303,Right,402,Leg Break,509
+90129,CM Gautam,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90130,Carlos Brathwaite,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90131,Chris Woakes,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90132,Dilhara Fernando,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90133,Varun Chakravarthy,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90134,D Brevis,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90135,Dillon du Preez,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90136,Doddapaneni Kalyankrishna,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90137,Devdutt Padikkal,Batsmen,101,Left,202,Opener,301,Right,402,Off Break,508
+90138,D Pretorius,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90139,Dinesh Salunkhe,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90140,David Wiese,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90141,David Miller,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90142,David Warner,Batsmen,101,Left,202,Opener,301,Right,402,Leg Break,509
+90143,Doug Bracewell,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90144,Debabrata Das,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90145,Dwaraka Ravi Teja,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90146,Doug Bollinger,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90147,Darshan Nalkande,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90148,Dishant Yagnik,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Slow,507
+90149,Dwayne Bravo,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90150,Daniel Harris,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90151,Deepak Hooda,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90152,David Hussey,All Rounder,103,Right,201,Top Order,302,Right,402,Off Break,508
+90153,Davy Jacobs,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90154,Dawid Malan,Batsmen,101,Left,202,Opener,301,Right,402,Leg Break,509
+90155,Daryl Mitchell,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90156,Domnic Muthuswami,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90157,Dominic John Thornely,Batsmen,101,Right,201,Opener,301,Right,402,Medium,503
+90158,David Willey,All Rounder,103,Left,202,Middle Order,303,Left,401,Medium,503
+90159,Darren Sammy,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90160,D'Arcy Short,Batsmen,101,Left,202,Opener,301,Left,401,Slow Orthodox,511
+90161,Deepak Chahar,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90162,Daniel Vettori,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90163,Darren Bravo,Batsmen,101,Left,202,Opener,301,Right,402,Medium,503
+90164,Nuwan Zoysa,Bowler,102,Left,202,Finisher,304,Left,401,Medium-Fast,504
+90165,Devon Conway,WK-Batsmen,104,Left,202,Middle Order,303,Right,402,Medium,503
+90166,Dirk Nannes,Bowler,102,Right,201,Finisher,304,Right,402,Fast,501
+90167,Paidikalva Vijaykumar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90168,Mahela Jayawardene,Batsmen,101,Right,201,Opener,301,Right,402,Medium,503
+90169,Damien Martyn,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90170,Daniel Sams,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90171,Dhruv Shorey,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90172,Dwayne Smith,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90173,Dhawal Kulkarni,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90174,Darren Lehmann,Batsmen,101,Left,202,Top Order,302,Left,401,Slow Orthodox,511
+90175,Daniel Christian,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90176,Devraj Patil,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90177,Dale Steyn,Bowler,102,Right,201,Finisher,304,Right,402,Fast,501
+90178,Evin Lewis,Batsmen,101,Left,202,Opener,301,Left,401,Slow,507
+90179,Eoin Morgan,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90180,Eklavya Dwivedi,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90181,Farhaan Behardien,All Rounder,103,Right,201,Middle Order,303,Right,402,Fast-Medium,502
+90182,Francois du Plessis,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90183,Fabian Allen,All Rounder,103,Right,201,Middle Order,303,Right,402,Slow Orthodox,511
+90184,Fazalhaq Farooqi,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90185,Fidel Edwards,Bowler,102,Right,201,Finisher,304,Right,402,Fast,501
+90186,Faiz Fazal,Batsmen,101,Left,202,Opener,301,Right,402,Medium,503
+90187,Gautam Gambhir,Batsmen,101,Left,202,Top Order,302,Right,402,Leg Break,509
+90188,Gagandeep Singh,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90189,Brad Hogg,All Rounder,103,Left,202,Finisher,304,Left,401,Slow,507
+90190,Graeme Smith,Batsmen,101,Left,202,Opener,301,Right,402,Off Break,508
+90191,Hardus Viljoen,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90192,Glenn McGrath,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90193,Glenn Phillips,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Off Break,508
+90194,Hanuma Vihari,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90195,George Garton,Bowler,102,Left,202,Tailender,305,Left,401,Fast,501
+90196,George Bailey,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90197,Glenn Maxwell,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90198,Graham Napier,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90199,Gurinder Sandhu,Bowler,102,Left,202,Tailender,305,Right,402,Medium,503
+90200,Gurkeerat Singh,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90201,Halhadar Das,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90202,Heinrich Klaasen,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90203,Harbhajan Singh,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90204,Harmeet Singh,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90205,Harpreet Brar,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90206,Harpreet Singh,Bowler,102,Right,201,Middle Order,303,Left,401,Medium,503
+90207,Harshit Rana,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90208,Rassie van der Dussen,Batsmen,101,Right,201,Opener,301,Right,402,Leg Break,509
+90209,Harry Gurney,Bowler,102,Right,201,Middle Order,303,Right,402,Medium,503
+90210,Herschelle Gibbs,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90211,Hardik Pandya,All Rounder,103,Right,201,Top Order,302,Right,402,Medium,503
+90212,Hashim Amla,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90213,Hrithik Shokeen,Bowler,102,Right,201,Finisher,304,Right,402,Off Break,508
+90214,Harshal Patel,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90215,Ishan Malhotra,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90216,Ishant Sharma,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90217,Isuru Udana,All Rounder,103,Right,201,Middle Order,303,Left,401,Fast,501
+90218,Ishwar Pandey,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90219,Ishan Porel,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90220,Irfan Pathan,All Rounder,103,Left,202,Middle Order,303,Left,401,Medium,503
+90221,Imran Tahir,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90222,Iqbal Abdulla,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90223,Ishank Jaggi,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90224,Ish Sodhi,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90225,Ishan Malhotra,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90226,Jagadeesh Arunkumar,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90227,Johan Botha,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90228,Jagadeesha Suchith,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90229,Syed Mohammed,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90230,Rusty Theron,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90231,Jayant Yadav,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90232,Albie Morkel,All Rounder,103,Left,202,Middle Order,303,Right,402,Medium,503
+90233,Jhye Richardson,Bowler,102,Left,202,Tailender,305,Right,402,Fast,501
+90234,Jalaj Saxena,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90235,Jaskaran Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90236,Jofra Archer,Bowler,102,Right,201,Tailender,305,Right,402,Fast-Medium,502
+90237,Jos Buttler,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90238,Jesse Ryder,All Rounder,103,Left,202,Finisher,304,Right,402,Medium,503
+90239,Jaydev Unadkat,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90240,Jacob Oram,All Rounder,103,Left,202,Middle Order,303,Right,402,Medium,503
+90241,Jimmy Neesham,All Rounder,103,Left,202,Middle Order,303,Right,402,Medium,503
+90242,Jerome Taylor,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90243,James Franklin,All Rounder,103,Left,202,Middle Order,303,Left,401,Medium,503
+90244,Jacques Kallis,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90245,Jasprit Bumrah,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90246,Jason Roy,Batsmen,101,Right,201,Middle Order,303,Right,402,Slow,507
+90247,Johan van der Wath,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90248,Joe Denly,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90249,James Pattinson,Bowler,102,Left,202,Tailender,305,Right,402,Fast-Medium,502
+90250,Jonny Bairstow,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90251,Justin Kemp,All Rounder,103,Right,201,Middle Order,303,Right,402,Fast-Medium,502
+90252,Jitesh Sharma,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90253,Jason Holder,All Rounder,103,Right,201,Middle Order,303,Right,402,Fast-Medium,502
+90254,Joginder Sharma,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90255,Jason Behrendorff,Bowler,102,Right,201,Finisher,304,Left,401,Fast-Medium,502
+90256,JP Duminy,Batsmen,101,Left,202,Opener,301,Right,402,Off Break,508
+90257,James Faulkner,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90258,Javon Searles,Bowler,102,Right,201,Finisher,304,Right,402,Fast-Medium,502
+90259,Josh Hazlewood,Bowler,102,Left,202,Tailender,305,Right,402,Medium,503
+90260,James Hopes,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90261,Josh Philippe,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90262,John Hastings,All Rounder,103,Right,201,Middle Order,303,Right,402,Fast-Medium,502
+90263,Karan Goel,All Rounder,103,Left,202,Finisher,304,Right,402,Off Break,508
+90264,Krishnappa Gowtham,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90265,Kumar Kartikeya Singh,Bowler,102,Right,201,Finisher,304,Left,401,Slow Orthodox,511
+90266,Kulwant Khejroliya,Bowler,102,Left,202,Finisher,304,Left,401,Medium,503
+90267,Kagiso Rabada,Bowler,102,Left,202,Finisher,304,Right,402,Fast,501
+90268,Krishmar Santokie,Bowler,102,Left,202,Finisher,304,Left,401,Medium,503
+90269,Krishnakant Upadhyay,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90270,Kuldeep Yadav,Bowler,102,Left,202,Finisher,304,Left,401,Slow,507
+90271,Kyle Jamieson,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90272,Kieron Pollard,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90273,Kemar Roach,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90274,Kamran Akmal,Batsmen,101,Right,201,Opener,301,Right,402,Slow,507
+90275,Kamran Khan,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90276,Karanveer Singh,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90277,Kartik Tyagi,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90278,Arun Karthik,Batsmen,101,Right,201,Opener,301,Right,402,Leg Break,509
+90279,KC Cariappa,Bowler,102,Right,201,Finisher,304,Right,402,Leg Break,509
+90280,Kumar Sangakkara,WK-Batsmen,104,Left,202,Top Order,302,Right,402,Off Break,508
+90281,Dinesh Karthik,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90282,Krunal Pandya,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90283,Kyle Abbott,Bowler,102,Right,201,Middle Order,303,Right,402,Medium,503
+90284,Khaleel Ahmed,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90285,Kevon Cooper,Batsmen,101,Right,201,Finisher,304,Right,402,Medium,503
+90286,Karun Nair,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90287,Kamlesh Nagarkoti,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90288,KL Rahul,Batsmen,101,Right,201,Middle Order,303,Right,402,Slow,507
+90289,KM Asif,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90290,Kedar Jadhav,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90291,Keemo Paul,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90292,Nuwan Kulasekara,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90293,KP Appanna,Bowler,102,Right,201,Tailender,305,Left,401,Slow Orthodox,511
+90294,Kevin Pietersen,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90295,Kuldeep Sen,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90296,Srikar Bharat,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90297,Karan Sharma,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90298,Kane Williamson,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90299,Kuldeep Yadav,Bowler,102,Left,202,Finisher,304,Left,401,Medium_Slow,505
+90300,Karn Sharma,All Rounder,103,Left,202,Finisher,304,Right,402,Leg Break,509
+90301,Kane Richardson,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90302,Love Ablish,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90303,Lakshmipathy Balaji,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90304,Lungi Ngidi,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90305,Luke Ronchi,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90306,Lee Carseldine,All Rounder,103,Left,202,Finisher,304,Left,401,Medium,503
+90307,Luke Pomersbach,Batsmen,101,Left,202,Middle Order,303,Left,401,Off Break,508
+90308,Lalit Yadav,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90309,Liam Plunkett,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90310,Lockie Ferguson,All Rounder,103,Right,201,Finisher,304,Right,402,Fast,501
+90311,Lukman Hussain Meriwala,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90312,Luke Wright,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90313,Lendl Simmons,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90314,Chamara Silva,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90315,Laxmi Ratan Shukla,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90316,Ross Taylor,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90317,Liam Livingstone,All Rounder,103,Right,201,Finisher,304,Right,402,Leg Break,509
+90318,Murugan Ashwin,All Rounder,103,Right,201,Finisher,304,Right,402,Leg Break,509
+90319,Marchant de Lange,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90320,Marco Jansen,All Rounder,103,Right,201,Finisher,304,Left,401,Fast,501
+90321,Mohammad Kaif,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90322,Murali Kartik,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90323,Michael Klinger,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90324,Mithun Manhas,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90325,Mayank Markande,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90326,Morne Morkel,Bowler,102,Left,202,Tailender,305,Right,402,Fast,501
+90327,Muttiah Muralitharan,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90328,Makhaya Ntini,All Rounder,103,Right,201,Finisher,304,Right,402,Fast,501
+90329,Matheesha Pathirana,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90330,Prasidh Krishna,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90331,Mahesh Rawat,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90332,Shahrukh Khan,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90333,Maheesh Theekshana,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90334,Murali Vijay,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90335,Manan Vohra,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90336,Mayank Agarwal,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90337,Musavir Khote,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90338,Mitchell Starc,Bowler,102,Left,202,Tailender,305,Left,401,Fast,501
+90339,Mark Wood,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90340,Mandeep Singh,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90341,Mashrafe Mortaza,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90342,Mohnish Parmar,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90343,Moises Henriques,All Rounder,103,Right,201,Finisher,304,Right,402,Fast-Medium,502
+90344,Manpreet Juneja,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90345,Mohnish Mishra,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90346,Kusal Perera,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Medium,503
+90347,Mike Hussey,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90348,Farveez Maharoof,All Rounder,103,Right,201,Finisher,304,Right,402,Fast-Medium,502
+90349,Mitchell Johnson,Bowler,102,Left,202,Tailender,305,Left,401,Fast,501
+90350,Michael Neser,All Rounder,103,Right,201,Finisher,304,Right,402,Fast-Medium,502
+90351,Misbah-ul-Haq,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90352,Michael Clarke,Batsmen,101,Right,201,Middle Order,303,Left,401,Slow Orthodox,511
+90353,Martin Guptill,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90354,Matt Henry,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90355,Michael Lumb,Batsmen,101,Left,202,Middle Order,303,Left,401,Slow,507
+90356,Mitchell McClenaghan,Batsmen,101,Left,202,Middle Order,303,Left,401,Medium,503
+90357,Mitchell Santner,Batsmen,101,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90358,Mahipal Lomror,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90359,Manish Pandey,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90360,Manoj Tiwary,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90361,Matthew Hayden,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90362,Khawar Ali,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90363,Munaf Patel,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90364,Mohit Sharma,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90365,Marlon Samuels,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90366,Morné van Wyk,Batsmen,101,Right,201,Middle Order,303,Left,401,Slow Orthodox,511
+90367,Mohammad Ashraful,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90368,Mohammad Asif,Bowler,102,Left,202,Finisher,304,Right,402,Medium,503
+90369,Mohammad Hafeez,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90370,Mohammad Nabi,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90371,Mohammed Shami,Bowler,102,Right,201,Finisher,304,Right,402,Fast,501
+90372,Mohammed Siraj,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90373,Mohsin Khan,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90374,Monu Kumar,Bowler,102,Right,201,Finisher,304,Right,402,Medium,503
+90375,Marcus Stoinis,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90376,Mitchell Marsh,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90377,Manvinder Bisla,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90378,Mahendra Singh Dhoni,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90379,Manpreet Gony,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90380,Matthew Wade,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Medium,503
+90381,Mujeeb Ur Rahman,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90382,Mukesh Choudhary,Batsmen,101,Left,202,Middle Order,303,Left,401,Medium,503
+90383,Mustafizur Rahman,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90384,Mark Boucher,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90385,Narayan Jagadeesan,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90386,Nicholas Pooran,WK-Batsmen,104,Left,202,Middle Order,303,Right,402,Off Break,508
+90387,Nitish Rana,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90388,Navdeep Saini,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90389,Navdeep Saini,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90390,Nathu Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90391,Nayan Doshi,Bowler,102,Right,201,Tailender,305,Right,402,Slow Orthodox,511
+90392,Nic Maddinson,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90393,Nathan Rimmington,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90394,Niraj Patel,All Rounder,103,Right,201,Finisher,304,Left,401,Slow Orthodox,511
+90395,Nathan McCullum,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90396,Thisara Perera,All Rounder,103,Left,202,Finisher,304,Right,402,Medium,503
+90397,Nathan Coulter-Nile,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90398,Prashant Naik,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break Googly,510
+90399,Nathan Ellis,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90400,Naman Ojha,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90401,Oshane Thomas,Bowler,102,Left,202,Tailender,305,Right,402,Fast,501
+90402,Owais Shah,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90403,Obed McCoy,Batsmen,101,Left,202,Middle Order,303,Left,401,Medium,503
+90404,Odean Smith,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90405,Palani Amarnath,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90406,Parvinder Awana,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90407,Prashant Chopra,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90408,Paras Dogra,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90409,Praveen Dubey,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90410,Praveen Kumar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90411,Pawan Negi,All Rounder,103,Left,202,Finisher,304,Left,401,Slow Orthodox,511
+90412,Prasanth Parameswaran,Batsmen,101,Right,201,Middle Order,303,Left,401,Medium,503
+90413,Padmanabhan Prasanth,Batsmen,101,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90414,Prayas Ray Barman,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break Googly,510
+90415,Pardeep Sahu,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90416,Prabhsimran Singh,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Slow,507
+90417,Pawan Suyal,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90418,Parthiv Patel,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Slow,507
+90419,Akshath Reddy,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90420,Pankaj Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90421,Parvez Rasool,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90422,Bhanuka Rajapaksa,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90423,Paul Valthaty,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90424,Paul Collingwood,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90425,Prashant Solanki,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90426,Pat Cummins,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90427,Pradeep Sangwan,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90428,Priyam Garg,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90429,PM Sarvesh Kumar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90430,Prerak Mankad,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90431,Piyush Chawla,All Rounder,103,Left,202,Finisher,304,Left,401,Leg Break,509
+90432,Pragyan Ojha,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90433,Prithvi Shaw,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90434,Pinal Shah,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90435,Peter Handscomb,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium,503
+90436,Pravin Tambe,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90437,Dushmantha Chameera,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90438,Wanindu Hasaranga,All Rounder,103,Right,201,Finisher,304,Right,402,Leg Break,509
+90439,Quinton de Kock,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Medium,503
+90440,Ravichandran Ashwin,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90441,Rajat Bhatia,All Rounder,103,Right,201,Finisher,304,Right,402,Fast,501
+90442,Ravi Bishnoi,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break Googly,510
+90443,Rishi Dhawan,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90444,Rahul Dravid,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Off Break,508
+90445,Ryan McLaren,All Rounder,103,Left,202,Finisher,304,Right,402,Medium,503
+90446,Ryan Ninan,All Rounder,103,Right,201,Finisher,304,Right,402,Off Break,508
+90447,Riyan Parag,Batsmen,101,Right,201,Middle Order,303,Right,402,Leg Break,509
+90448,Rovman Powell,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90449,Ravi Rampaul,Bowler,102,Left,202,Tailender,305,Right,402,Fast,501
+90450,Ravisrinivasan Sai Kishore,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90451,Sanjay Yadav,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90452,Rajagopal Sathish,All Rounder,103,Right,201,Finisher,304,Right,402,Medium,503
+90453,Rahul Sharma,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90454,Romario Shepherd,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90455,Rahul Shukla,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90456,Rahul Tewatia,All Rounder,103,Left,202,Tailender,305,Right,402,Leg Break,509
+90457,Vinay Kumar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90458,Raj Angad Bawa,All Rounder,103,Left,202,Tailender,305,Right,402,Medium,503
+90459,Ravindra Jadeja,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90460,Rahil Shaikh,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90461,Rahul Tripathi,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90462,Ramandeep Singh,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90463,Rashid Khan,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90464,Rasikh Salam Dar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90465,Ravi Bishnoi,Bowler,102,Right,201,Finisher,304,Right,402,Leg Break,509
+90466,Rahul Chahar,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90467,Ruturaj Gaikwad,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90468,Richard Levi,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90469,Roelof van der Merwe,All Rounder,103,Right,201,Top Order,302,Right,402,Slow Orthodox,511
+90470,Ronit More,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90471,Rohit Sharma,Batsmen,101,Right,201,Opener,301,Right,402,Medium,503
+90472,Ryan Harris,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90473,Robin Peterson,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90474,Rob Quiney,Batsmen,101,Left,202,Top Order,302,Right,402,Medium,503
+90475,Ricky Bhui,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90476,Rinku Singh,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90477,Rajat Patidar,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90478,Ryan ten Doeschate,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90479,Riley Meredith,Bowler,102,Left,202,Tailender,305,Right,402,Medium,503
+90480,R. P. Singh,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90481,Raju Bhatkal,All Rounder,103,Right,201,Top Order,302,Right,402,Medium,503
+90482,Ranadeb Bose,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90483,Rishabh Pant,WK-Batsmen,104,Left,202,Middle Order,303,Left,401,Fast-Medium,502
+90484,Ramesh Powar,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90485,Rohan Raje,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90486,Rilee Rossouw,Batsmen,101,Left,202,Top Order,302,Right,402,Off Break,508
+90487,Ramnaresh Sarwan,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90488,Ravi Bopara,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90489,Rohan Gavaskar,Batsmen,101,Left,202,Top Order,302,Left,401,Slow Orthodox,511
+90490,Reetinder Singh Sodhi,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90491,Ricky Ponting,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90492,Raiphi Gomez,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90493,Ripal Patel,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90494,Robin Uthappa,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90495,Ray Price,Bowler,102,Right,201,Tailender,305,Left,401,Slow Orthodox,511
+90496,Anirudha Srikkanth,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90497,Sreenath Aravind,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90498,Samuel Badree,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90499,Subramaniam Badrinath,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90500,Shivnarine Chanderpaul,Batsmen,101,Left,202,Middle Order,303,Right,402,Leg Break,509
+90501,Shikhar Dhawan,Batsmen,101,Left,202,Top Order,302,Right,402,Off Break,508
+90502,Shivam Dube,All Rounder,103,Left,202,Top Order,302,Right,402,Medium,503
+90503,Shreyas Gopal,All Rounder,103,Right,201,Middle Order,303,Right,402,Leg Break,509
+90504,Siddarth Kaul,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90505,Shivil Kaushik,Bowler,102,Right,201,Tailender,305,Left,401,Off Break,508
+90506,Sarabjit Ladda,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90507,Sandeep Lamichhane,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90508,Sudhesan Midhun,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90509,Shahbaz Nadeem,Bowler,102,Right,201,Tailender,305,Left,401,Slow Orthodox,511
+90510,Sumit Narwal,All Rounder,103,Left,202,Middle Order,303,Right,402,Medium,503
+90511,Sachin Rana,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90512,Suraj Randiv,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90513,Sandeep Warrier,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90514,Sunny Sohal,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90515,Sreesanth,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90516,Sridharan Sriram,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90517,Sudeep Tyagi,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90518,Vidyut Sivaramakrishnan,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90519,Sean Abbott,All Rounder,103,Right,201,Top Order,302,Right,402,Medium,503
+90520,Swapnil Asnodkar,Batsmen,101,Right,201,Top Order,302,Right,402,Slow Orthodox,511
+90521,Suryakumar Yadav,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90522,Sachin Baby,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90523,Salman Butt,Batsmen,101,Left,202,Top Order,302,Right,402,Off Break,508
+90524,Sandeep Sharma,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90525,Sanjay Bangar,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90526,Shadab Jakati,Bowler,102,Left,202,Tailender,305,Left,401,Slow Orthodox,511
+90527,Sunil Joshi,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90528,Scott Styris,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90529,Shrikant Wagh,All Rounder,103,Left,202,Middle Order,303,Left,401,Medium,503
+90530,Sourav Ganguly,Batsmen,101,Left,202,Opener,301,Right,402,Medium,503
+90531,Scott Kuggeleijn,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90532,Siddharth Chitnis,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90533,Siddhesh Lad,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90534,Shane Bond,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90535,Shaun Marsh,Batsmen,101,Left,202,Top Order,302,Left,401,Slow Orthodox,511
+90536,Sherfane Rutherford,Batsmen,101,Left,202,Top Order,302,Right,402,Medium,503
+90537,Shahbaz Ahmed,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90538,Shahid Afridi,All Rounder,103,Right,201,Middle Order,303,Right,402,Leg Break,509
+90539,Shakib Al Hasan,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90540,Shashank Singh,All Rounder,103,Right,201,Top Order,302,Right,402,Off Break,508
+90541,Shivam Mavi,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90542,Shivam Sharma,Bowler,102,Right,201,Finisher,304,Right,402,Off Break,508
+90543,Shoaib Ahmed,Bowler,102,Right,201,Tailender,305,Right,402,Fast-Medium,502
+90544,Shoaib Akhtar,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90545,Shoaib Malik,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90546,Shubman Gill,Batsmen,101,Right,201,Opener,301,Right,402,Off Break,508
+90547,Simarjeet Singh,Bowler,102,Right,201,Tailender,305,Right,402,Fast-Medium,502
+90548,Shalabh Srivastava,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90549,Suresh Raina,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90550,Siddharth Trivedi,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90551,Shane Warne,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90552,Lasith Malinga,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90553,Scott Boland,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90554,Sam Curran,All Rounder,103,Left,202,Middle Order,303,Left,401,Fast,501
+90555,Shane Harwood,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90556,Simon Katich,Batsmen,101,Left,202,Top Order,302,Left,401,Off Break,508
+90557,Shaun Pollock,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90558,Sachithra Senanayake,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90559,Sarfaraz Khan,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90560,Shardul Thakur,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90561,Shimron Hetmyer,Batsmen,101,Left,202,Top Order,302,Right,402,Leg Break,509
+90562,Sohail Tanvir,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90563,Stephen Fleming,Batsmen,101,Left,202,Top Order,302,Left,401,Medium,503
+90564,Shreevats Goswami,WK-Batsmen,104,Left,202,Top Order,302,Left,401,Fast,501
+90565,Sheldon Jackson,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Off Break,508
+90566,Sunil Narine,Bowler,102,Left,202,Tailender,305,Right,402,Off Break,508
+90567,Steve Smith,All Rounder,103,Right,201,Top Order,302,Right,402,Leg Break,509
+90568,Sachin Tendulkar,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90569,Shane Watson,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90570,Shubham Agarwal,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break,509
+90571,Sheldon Cottrell,Bowler,102,Right,201,Tailender,305,Left,401,Medium,503
+90572,Shreyas Iyer,Batsmen,101,Right,201,Top Order,302,Right,402,Leg Break,509
+90573,Shrikant Mundhe,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90574,Suyash Prabhudessai,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90575,Soumya Sarkar,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90576,Shoaib Shaikh,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90577,Saurabh Tiwary,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90578,Sanath Jayasuriya,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90579,Stuart Binny,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90580,Sunny Gupta,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90581,Sunny Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90582,Sanju Samson,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Off Break,508
+90583,Sam Billings,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Medium,503
+90584,Shaun Tait,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90585,Swapnil Singh,Bowler,102,Right,201,Tailender,305,Left,401,Slow Orthodox,511
+90586,Tom Banton,Batsmen,101,Left,202,Opener,301,Right,402,Medium,503
+90587,Tyron Henderson,Bowler,102,Right,201,Tailender,305,Right,402,Fast-Medium,502
+90588,Taruwar Kohli,Batsmen,101,Right,201,Middle Order,303,Right,402,Fast,501
+90589,T Natarajan,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90590,Tabraiz Shamsi,Bowler,102,Right,201,Tailender,305,Left,401,Off Break,508
+90591,Tristan Stubbs,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90592,Tatenda Taibu,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Medium,503
+90593,Thilan Thushara,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90594,Trent Boult,Bowler,102,Right,201,Tailender,305,Left,401,Fast-Medium,502
+90595,Tim Paine,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Medium,503
+90596,Tejas Baroka,Bowler,102,Right,201,Tailender,305,Right,402,Leg Break Googly,510
+90597,Tim Southee,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90598,Tim David,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90599,Tilak Varma,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90600,Tom Curran,All Rounder,103,Right,201,Middle Order,303,Right,402,Fast-Medium,502
+90601,Tim Seifert,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90602,Tirumalasetti Suman,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90603,Tillakaratne Dilshan,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90604,Travis Head,Batsmen,101,Left,202,Top Order,302,Right,402,Off Break,508
+90605,Tanmay Srivastava,Batsmen,101,Left,202,Top Order,302,Right,402,Medium,503
+90606,TP Sudhindra,Bowler,102,Left,202,Tailender,305,Right,402,Fast,501
+90607,Travis Birt,Batsmen,101,Left,202,Middle Order,303,Right,402,Medium,503
+90608,Tymal Mills,Bowler,102,Right,201,Tailender,305,Left,401,Fast,501
+90609,Tushar Deshpande,Bowler,102,Left,202,Tailender,305,Right,402,Medium,503
+90610,Uday Kaul,WK-Batsmen,104,Left,202,Top Order,302,Left,401,Medium,503
+90611,Udit Birla,Batsmen,101,Right,201,Top Order,302,Right,402,Medium,503
+90612,Unmukt Chand,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90613,Umar Gul,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90614,Umran Malik,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90615,Usman Khawaja,Batsmen,101,Left,202,Top Order,302,Right,402,Off Break,508
+90616,Umesh Yadav,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90617,Virat Kohli,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90618,Veer Pratap Singh,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90619,Virender Sehwag,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90620,Vijay Shankar,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90621,Vaibhav Arora,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90622,Vijay Zol,Batsmen,101,Left,202,Middle Order,303,Right,402,Off Break,508
+90623,Virat Singh,Batsmen,101,Left,202,Top Order,302,Right,402,Leg Break,509
+90624,Vishnu Vinod,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Medium-Fast,504
+90625,Varun Aaron,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90626,Venkatesh Iyer,All Rounder,103,Left,202,Middle Order,303,Right,402,Medium,503
+90627,V. R. V. Singh,Bowler,102,Right,201,Tailender,305,Right,402,Fast,501
+90628,Vikramjeet Malik,Bowler,102,Right,201,Tailender,305,Right,402,Medium,503
+90629,Vikrant Yeligati,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90630,V.V.S. Laxman,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90631,Yo Mahesh,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90632,Wasim Jaffer,Batsmen,101,Right,201,Top Order,302,Right,402,Off Break,508
+90633,Wilkin Mota,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90634,Washington Sundar,All Rounder,103,Left,202,Finisher,304,Right,402,Off Break,508
+90635,Wayne Parnell,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90636,Wriddhiman Saha,WK-Batsmen,104,Right,201,Middle Order,303,Right,402,Medium_Slow,505
+90637,Chaminda Vaas,Batsmen,101,Left,202,Top Order,302,Left,401,Medium,503
+90638,Thalaivan Sargunam,Bowler,102,Right,201,Tailender,305,Right,402,Off Break,508
+90639,Gnaneswara Rao,All Rounder,103,Right,201,Middle Order,303,Right,402,Medium,503
+90640,Yogesh Nagar,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90641,Prithvi Raj,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90642,Venugopal Rao,Batsmen,101,Right,201,Middle Order,303,Right,402,Off Break,508
+90643,Yusuf Abdulla,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90644,Yash Dayal,Bowler,102,Left,202,Tailender,305,Left,401,Medium,503
+90645,Yashpal Singh,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90646,Yashasvi Jaiswal,Batsmen,101,Left,202,Top Order,302,Right,402,Leg Break,509
+90647,Yusuf Pathan,All Rounder,103,Right,201,Middle Order,303,Right,402,Off Break,508
+90648,Younis Khan,Batsmen,101,Right,201,Middle Order,303,Right,402,Medium,503
+90649,Yuzvendra Chahal,Bowler,102,Right,201,Finisher,304,Right,402,Leg Break,509
+90650,Yuvraj Singh,All Rounder,103,Left,202,Middle Order,303,Left,401,Slow Orthodox,511
+90651,Yogesh Takawale,WK-Batsmen,104,Right,201,Top Order,302,Right,402,Slow,507
+90652,Zaheer Khan,Bowler,102,Left,202,Finisher,304,Left,401,Slow,507
